@@ -21,14 +21,22 @@
 </div>
 
 ## About This Add-on  
-This AI-powered system seamlessly integrates with Blender, allowing anyone to generate scripts effortlessly—even users with no coding experience.  
+**Create your own Blender add-ons using AI.** This add-on by Joe Morris uses many data sources like the **Blender Manual and Stack Exchange** to help you build a stable solution.  
+
+### **Introducing the Ultimate Script Generator for Blender 4.3**  
+The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST Blender add-on IN THE WORLD (code-wise)**!  
 
 ## Features  
-- **AI-Powered Script Generation**: Describe what you need, and AI writes the script for you.  
-- **Error-Free Execution**: Automatically detects and fixes script errors in a loop.  
-- **Blender API Lookups**: Uses official API, manual, and Stack Exchange for references.  
-- **Enhances Every Workflow**: Removes unnecessary clicks across all Blender functions.  
-- **Fully Integrated with Blender**: Works within the N-Panel for easy access.  
+- **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
+- **Automatic Error Handling**: Runs the script, detects issues, and automatically fixes errors in a loop.  
+- **Smart Code Lookup**: Searches the **Blender API, Blender Manual, Blender Stack Exchange, and your own database of code examples** for solutions.  
+- **Version Compatibility**: Converts older scripts to **Blender 4.3 compatibility** automatically.  
+- **Boost User Command Feature**: Optimizes your input to be **Blender Manual-compatible** for better results.  
+- **Self-Updating Fixes**: Can locate and retrieve example scripts from our **internal database** or even **external add-ons** you specify.  
+- **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set allows even **non-programmers to resolve errors in 5-10 minutes.**  
+- **Hail Mary Fix Attempt**: The system performs a final attempt to **automatically solve complex issues**, so manual fixing might not be necessary.  
+- **Optimized for Animation & Nodes**: Works especially well for **automation scripts, shader setups, compositor nodes, and geometry nodes.**  
+- **World-Class Customer Support**: Any issue reported is likely to be **fixed the same day.**  
 
 ## Installation  
 ### Windows Users  
