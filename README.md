@@ -11,9 +11,9 @@
 [website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
 [website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
 [support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
-[support-url]: mailto:support@fast-blender-add-ons.com  
+[support-url]: [mailto:support@fast-blender-add-ons.com ](https://fast-blender-add-ons.com/support/) 
 [downloads-shield]: https://img.shields.io/github/downloads/FastBlenderAddOns/BlenderAIScripts/total?style=flat  
-[downloads-url]: https://fast-blender-add-ons.com/downloads  
+[downloads-url]: https://fast-blender-add-ons.com/shop  
 [release-shield]: https://img.shields.io/github/v/release/FastBlenderAddOns/BlenderAIScripts?style=flat  
 [release-url]: https://fast-blender-add-ons.com/releases  
 
