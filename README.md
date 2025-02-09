@@ -12,12 +12,12 @@
 [website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
 [support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
 [support-url]: mailto:support@fast-blender-add-ons.com  
-[downloads-shield]: https://img.shields.io/github/downloads/yourrepo/youraddon/total?style=flat  
+[downloads-shield]: https://img.shields.io/github/downloads/FastBlenderAddOns/BlenderAIScripts/total?style=flat  
 [downloads-url]: https://fast-blender-add-ons.com/downloads  
-[release-shield]: https://img.shields.io/github/v/release/yourrepo/youraddon?style=flat  
+[release-shield]: https://img.shields.io/github/v/release/FastBlenderAddOns/BlenderAIScripts?style=flat  
 [release-url]: https://fast-blender-add-ons.com/releases  
 
-![Blender AI Screenshot](https://your-image-link.com/screenshot.png)  
+![Blender AI Screenshot](https://fast-blender-add-ons.com/images/blender-ai-screenshot.png)  
 </div>
 
 ## About This Add-on  
@@ -67,3 +67,4 @@ Want Python support beyond Blender? We can add API lookups for **OpenCV, NumPy, 
 ---
 
 This add-on makes Blender scripting accessible for everyone. Try it now and revolutionize your workflow! 🚀
+
