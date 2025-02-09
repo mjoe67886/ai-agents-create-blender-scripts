@@ -9,6 +9,7 @@
 🔹 ...as...we would be literally screwing 23 million Blender users if,
 🔹 we don't get the word out that we sell THE Biggest Blender Add on In the World, code wise! 
 🔹 And...that it removes clicks from literally every Blender process!  
+
 🔹 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
 🚀 License
