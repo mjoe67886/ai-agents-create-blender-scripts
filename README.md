@@ -29,6 +29,7 @@ The AI looks up the Blender manual and API for you.
 It generates an optimized, error-free script automatically.
 
 🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
+
 📩 For more information, contact us at: support@fast-blender-add-ons.com
 
 What Makes This Different?
@@ -82,6 +83,7 @@ GPT-4O model
 GPT-4O Mini model
 
 03 Mini model
+
 7️⃣ The "Question" button can also answer questions about the add-on’s workability except for the obfuscated .pyd file, which remains proprietary.
 
 🔹 The free version does not allow AI to access the .pyd file, ensuring our proprietary system remains protected. However, users can still inquire about the functionality of other features.
@@ -89,6 +91,7 @@ GPT-4O Mini model
 Additional Features
 
 This add-on includes several workflow-enhancing tools, accessible through the right-click menu:
+
 ✅ Restart Blender Button (Quickly restart Blender without losing progress)
 ✅ Show Console Button (Brings the Blender console to the forefront for monitoring processing)
 ✅ Save Startup File / Delete Startup File (Manage your startup configurations with ease)
@@ -111,4 +114,28 @@ This script generator is just one feature pulled from our full FAST Animation St
 💡 Check out our full add-on here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
 🚀 Upgrade to the full version and optimize everything in Blender with the Biggest Blender Add-On in The World, code-wise!
+
+
+🛠 Need Help or Have a Feature Request?
+
+🔗 Report Issues & Help Improve the System! → Submit Issues Here or use the GitHub Issues Form.
+
+📌 We’re providing this for free, but that doesn’t mean it’s not supported. If you need help or have a request, let us know!
+
+📌 This tool is optimized for Blender scripting but also works for Python scripting! 
+📌 If you want to use it for Python projects beyond Blender, just let us know. 
+📌 We can easily add API lookups for any Python library—including pip-installable libraries like OpenCV, NumPy, or Pandas or any of em!.
+📌 Request Full Python Support and you'll get it! 
+
+💡 How It Would Work:
+
+✅ Just request API lookup for a Python library, and we'll start working on it.
+✅ It will fetch API documentation & generate fully functional scripts, just like it does for Blender.
+✅ Want OpenCV support? Ask! The system could automatically look up OpenCV’s API and generate perfect scripts instantly.
+
+⚡ We have the full template ready to go. If enough people are interested, we'll add this feature right away! 🚀
+
+🛠 This will be verified working on MacOS this week
+
+🛠 Linux support is coming after that (Please request if you need it sooner)
 
