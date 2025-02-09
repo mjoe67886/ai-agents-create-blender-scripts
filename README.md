@@ -6,7 +6,7 @@
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
 [![Downloads][downloads-shield]][downloads-url]  
-[![Latest Release][release-shield]][release-url]  
+
 
 [website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
 [website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
