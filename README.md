@@ -1,6 +1,17 @@
 🚀 AI Agents: Create Blender Scripts 🎨🖥️
+(Actual code coming tomorrow 2-10-2025)
 
-License
+🔹 This is a serious AI-powered system—20,000+ lines of seamlessly integrated code, developed over a year. 
+🔹 Unlike simple repositories with a basic OpenAI request loop, this is an advanced automation tool built to, 
+🔹 revolutionize Blender scripting.
+
+🔹 We’re offering this feature for free to raise awareness of our full Blender add-on, 
+🔹 ...as...we would be literally screwing 23 million Blender users if,
+🔹 we don't get the word out that we sell THE Biggest Blender Add on In the World, code wise! 
+🔹 And...that it removes clicks from literally every Blender process!  
+🔹 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
+
+🚀 License
 
 This add-on is provided under the Apache 2.0 License, allowing free use, modification, and distribution while maintaining proprietary .pyd files. For details, see the LICENSE.txt file included in this repository.
 
