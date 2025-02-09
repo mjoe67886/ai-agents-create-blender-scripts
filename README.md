@@ -1,5 +1,5 @@
 🚀 AI Agents: Create Blender Scripts 🎨🖥️
-(Actual code coming tomorrow 2-10-2025)
+    (Actual code coming tomorrow 2-10-2025)
 
 🔹 This is a serious AI-powered system—20,000+ lines of seamlessly integrated code, developed over a year. 
 🔹 Unlike simple repositories with a basic OpenAI request loop, this is an advanced automation tool built to, 
@@ -12,13 +12,15 @@
 
 🔹 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
+
 🚀 License
 
-This add-on is provided under the Apache 2.0 License, allowing free use, modification, and distribution while maintaining proprietary .pyd files. For details, see the LICENSE.txt file included in this repository.
+🔹See the LICENSE.txt file included in this repository.
 
-About This Add-on
 
-AI Agents Create Blender Scripts is a Blender add-on designed to make Blender scripting accessible to everyone—even users with zero coding experience.
+✅ About This Add-on
+
+✅ AI Agents Create Blender Scripts hosts a Blender add-on designed to make Blender scripting accessible to everyone—even users with zero coding experience.
 
 🚀 Anyone Can Write Blender Scripts—Even Non-Coders!
 
@@ -28,114 +30,122 @@ The AI looks up the Blender manual and API for you.
 
 It generates an optimized, error-free script automatically.
 
+
 🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
 
-📩 For more information, contact us at: support@fast-blender-add-ons.com
+🌎 For more information, contact us at: support@fast-blender-add-ons.com
 
-What Makes This Different?
+
+
+🟢 What Makes This Different?
 
 Normally, generating Blender scripts with AI (like ChatGPT) can be frustrating. You have to:
 
-Manually copy errors and paste them into ChatGPT
+❌ Manually copy errors and paste them into ChatGPT
 
-Figure out what went wrong
+❌ Figure out what went wrong
 
-Try multiple times to debug it
+❌ Try multiple times to debug it
 
 ✅ Our system does all of this for you automatically!
 
-✅ It tests the script
-✅ Finds errors and fixes them in a loop
-✅ Uses Blender API, manual, and Stack Exchange lookups
-✅ Ensures you get a working script every time
+🛠️ It tests the script
 
-Installation Instructions
+🔍 Finds errors and fixes them in a loop
 
-This add-on installs like any standard Blender add-on, with one key difference:
+📚 Uses Blender API, manual, and Stack Exchange lookups
 
-1️⃣ Windows Users
+🎯 Ensures you get a working script every time
 
-✅ Everything is pre-packaged with dependencies
 
-Simply install the add-on from Blender’s preferences menu.
 
-No extra steps are needed.
+✅ Installation Instructions
 
-2️⃣ Mac & Linux Users
+📌 This add-on installs like any standard Blender add-on, with one key difference:
 
-The LIB folder (which contains dependencies) is not included.
+✅ Windows Users
 
-When you first start the add-on, it will automatically install all required libraries for your system.
+📌 Everything is pre-packaged with dependencies
 
-Let the installation process complete, then start using the AI script generator!
+📌 Simply install the add-on from Blender’s preferences menu.
 
-How to Use
+
+✅ Mac & Linux Users
+
+📌 This will be verified working on MacOS this week
+
+📌 Linux support is coming after that
+
+📌 The LIB folder (which contains dependencies) is not included.
+
+📌 When you first start the add-on, it will automatically install all required libraries for your system.
+
+📌 Let the installation process complete, then start using the AI script generator!
+
+
+1️⃣ How to Use
 
 1️⃣ Enable the Add-on in Blender’s preferences.
+
 2️⃣ Go to the N-Panel (this is Blender's side panel, accessed by pressing N).
+
 3️⃣ Click the "Edit User Command" button and voice-type your user command.
+
 4️⃣ Below that, click the "Assistant" button to start the AI generating the script based on your command.
-5️⃣ Below that, click "Find Example" to have the system search Blender Stack Exchange for a relevant example script, fix any errors in that script, and incorporate it into your request for higher accuracy.
-6️⃣ Below that, click "Question" to ask questions about Blender using:
 
-GPT-4O model
+5️⃣ Click the Verbose ToolTips button on the top of the panel to enable tooltips that are fully documented.
 
-GPT-4O Mini model
-
-03 Mini model
-
-7️⃣ The "Question" button can also answer questions about the add-on’s workability except for the obfuscated .pyd file, which remains proprietary.
-
-🔹 The free version does not allow AI to access the .pyd file, ensuring our proprietary system remains protected. However, users can still inquire about the functionality of other features.
-
-Additional Features
-
-This add-on includes several workflow-enhancing tools, accessible through the right-click menu:
-
-✅ Restart Blender Button (Quickly restart Blender without losing progress)
-✅ Show Console Button (Brings the Blender console to the forefront for monitoring processing)
-✅ Save Startup File / Delete Startup File (Manage your startup configurations with ease)
-✅ Open N-Panel Button (Quickly opens the add-on panel for easy access)
-✅ Auto-Update System (Notifies you of new updates at startup and allows you to install them with one click)
-
-🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
-📩 For more information, contact us at: support@fast-blender-add-ons.com
-
-Try Our Flagship Add-on for 500+ More Features!
-
-This script generator is just one feature pulled from our full FAST Animation Studio Tools add-on, which includes over 500 workflow optimizations for Blender.
-
-🌟 FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
-
-✅ Improves Everything in Blender (Literally...and we can prove that!) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
-✅ Includes This AI Script Generator & 500+ Additional Operators
-✅ A Fully Optimized System for Blender Users
-
-💡 Check out our full add-on here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
-
-🚀 Upgrade to the full version and optimize everything in Blender with the Biggest Blender Add-On in The World, code-wise!
+6️⃣ Read all the tool-tips on the panel, this thing is vast...It's good for coders and non-coders alike!
 
 
-🛠 Need Help or Have a Feature Request?
 
-🔗 Report Issues & Help Improve the System! → Submit Issues Here or use the GitHub Issues Form.
+
+✅ Additional Features
+
+📌 This add-on includes several workflow-enhancing tools, accessible through the right-click menu:
+
+📌 Restart Blender Button (Quickly restart Blender without losing progress)
+
+📌 Show Console Button (Brings the Blender console to the forefront for monitoring processing)
+
+📌 Save Startup File / Delete Startup File (Manage your startup configurations with ease)
+
+📌 Open N-Panel Button (Quickly opens the add-on panel for easy access)
+
+📌 Auto-Update System (Notifies you of new updates at startup and allows you to install them with one click)
+
+
+✅ Try Our Flagship Add-on for 500+ More Features!
+
+📌 This script generator is just one feature pulled from our full FAST Animation Studio Tools add-on, which includes over 500 workflow optimizations for Blender.
+
+📌 FAST Animation Studio Tools: 🌎 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
+
+📌 Improves Everything in Blender (Literally...We can prove it!!) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
+
+📌 Includes This AI Script Generator & 500+ Additional Operators
+
+📌 Check out our full add-on here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
+
+
+✅ Need Help or Have a Feature Request?
 
 📌 We’re providing this for free, but that doesn’t mean it’s not supported. If you need help or have a request, let us know!
 
-📌 This tool is optimized for Blender scripting but also works for Python scripting! 
+📌 support@fast-blender-add-ons.com
+
+📌 Or use the standard Github issue reporting system!
+
+
+✅ This tool is optimized for Blender scripting but also works for Python scripting! 
+
 📌 If you want to use it for Python projects beyond Blender, just let us know. 
+
 📌 We can easily add API lookups for any Python library—including pip-installable libraries like OpenCV, NumPy, or Pandas or any of em!.
+
 📌 Request Full Python Support and you'll get it! 
 
-💡 How It Would Work:
 
-✅ Just request API lookup for a Python library, and we'll start working on it.
-✅ It will fetch API documentation & generate fully functional scripts, just like it does for Blender.
-✅ Want OpenCV support? Ask! The system could automatically look up OpenCV’s API and generate perfect scripts instantly.
 
-⚡ We have the full template ready to go. If enough people are interested, we'll add this feature right away! 🚀
 
-🛠 This will be verified working on MacOS this week
-
-🛠 Linux support is coming after that (Please request if you need it sooner)
 
