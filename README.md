@@ -1,151 +1,69 @@
-🚀 AI AGENTS: CREATE BLENDER SCRIPTS 🎨🖥️
-    (Actual code coming tomorrow — 2/10/2025)
-
-✨ This is a serious AI-powered system—20,000+ lines of seamlessly integrated code, developed over a year.
-
-🤖 Not a simple repository, this is an advanced AI tool built to revolutionize Blender scripting.
-
-🎁 We’re offering this feature for FREE to raise awareness of our full Blender add-on.
-
-⚠️ We would be literally screwing 23 million Blender users if:
-
-🌍 We don’t get the word out that we sell THE BIGGEST Blender Add-on In the World, code-wise for just $20!
-
-⚡ And...that it removes clicks from literally every Blender process!!...LITERALLY!!
-
-🌎 fast-blender-add-ons.com/fast-animation-studio-tools-2/
-
-
-
-
-✅ About This Add-on
-
-✅ AI Agents Create Blender Scripts hosts a Blender add-on designed to make Blender scripting accessible to everyone—even users with zero coding experience.
-
-🚀 Anyone Can Write Blender Scripts—Even Non-Coders!
-
-🚀 Just describe what you want to automate.
-
-🚀 The AI looks up the Blender manual and API for you.
-
-🚀 It generates an optimized, error-free script automatically.
-
-
-🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
-
-🌎 For more information, contact us at: support@fast-blender-add-ons.com
-
-
-
-
-🟢 What Makes This Different?
-
-Normally, generating Blender scripts with AI (like ChatGPT) can be frustrating. You have to:
-
-❌ Manually copy errors and paste them into ChatGPT
-
-❌ Figure out what went wrong
-
-❌ Try multiple times to debug it
-
-✅ Our system does all of this for you automatically!
-
-🛠️ It tests the script
-
-🔍 Finds errors and fixes them in a loop
-
-📚 Uses Blender API, manual, and Stack Exchange lookups
-
-🎯 Ensures you get a working script every time
-
-
-
-✅ Installation Instructions
-
-
-✅ Windows Users
-
-📌 Everything is pre-packaged with dependencies
-
-📌 Simply install the add-on from Blender’s preferences menu.
-
-
-✅ Mac & Linux Users
-
-📌 This will be verified working on MacOS this week
-
-📌 Linux support is coming after that
-
-📌 The LIB folder (which contains dependencies) is not included.
-
-📌 When you first start the add-on, it will automatically install all required libraries for your system.
-
-📌 Let the installation process complete, then start using the AI script generator!
-
-
-✅ How to Use
-
-1️⃣ Enable the Add-on in Blender’s preferences.
-
-2️⃣ Go to the N-Panel (this is Blender's side panel, accessed by pressing N).
-
-3️⃣ Click the "Edit User Command" button and voice-type your user command.
-
-4️⃣ Below that, click the "Assistant" button to start the AI generating the script based on your command.
-
-5️⃣ Click the Verbose ToolTips button on the top of the panel to enable tooltips that are fully documented.
-
-6️⃣ Read all the tool-tips on the panel, this thing is vast...It's good for coders and non-coders alike!
-
-
-
-
-✅ Additional Features
-
-📌 This add-on includes several workflow-enhancing tools, accessible through the right-click menu:
-
-📌 Restart Blender Button (Quickly restart Blender without losing progress)
-
-📌 Show Console Button (Brings the Blender console to the forefront for monitoring processing)
-
-📌 Save Startup File / Delete Startup File (Manage your startup configurations with ease)
-
-📌 Open N-Panel Button (Quickly opens the add-on panel for easy access)
-
-📌 Auto-Update System (Notifies you of new updates at startup and allows you to install them with one click)
-
-
-✅ Try Our Flagship Add-on for 500++ More Features!
-
-📌 This script generator is just one feature pulled from our full FAST Animation Studio Tools add-on, which includes over 500 workflow optimizations for Blender.
-
-📌 FAST Animation Studio Tools: 🌎 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
-
-📌 Improves Everything in Blender (Literally...) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
-
-📌 Includes This A.I. Script Generator & 500+ Additional Operators
-
-📌 Check it out here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
-
-
-✅ Need Help or Have a Feature Request?
-
-📌 We’re providing this for free, but that doesn’t mean it’s not supported. If you need help or have a request, let us know!
-
-📌 support@fast-blender-add-ons.com
-
-📌 Or use the standard Github issue reporting system!
-
-
-✅ This tool is optimized for Blender scripting but also works for Python scripting! 
-
-📌 If you want to use it for Python projects beyond Blender, just let us know. 
-
-📌 We can easily add API lookups for any Python library—including pip-installable libraries like OpenCV, NumPy, or Pandas or any of em!.
-
-📌 Request Full Python Support and you'll get it! 
-
-
-
-
-
+<div align="center">
+
+# AI Agents: Create Blender Scripts 🎨🖥️  
+**The most powerful AI-powered Blender scripting tool.**  
+
+[![Website][website-shield]][website-url]  
+[![Support][support-shield]][support-url]  
+[![Downloads][downloads-shield]][downloads-url]  
+[![Latest Release][release-shield]][release-url]  
+
+[website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
+[website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
+[support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
+[support-url]: mailto:support@fast-blender-add-ons.com  
+[downloads-shield]: https://img.shields.io/github/downloads/yourrepo/youraddon/total?style=flat  
+[downloads-url]: https://fast-blender-add-ons.com/downloads  
+[release-shield]: https://img.shields.io/github/v/release/yourrepo/youraddon?style=flat  
+[release-url]: https://fast-blender-add-ons.com/releases  
+
+![Blender AI Screenshot](https://your-image-link.com/screenshot.png)  
+</div>
+
+## About This Add-on  
+This AI-powered system seamlessly integrates with Blender, allowing anyone to generate scripts effortlessly—even users with no coding experience.  
+
+## Features  
+- **AI-Powered Script Generation**: Describe what you need, and AI writes the script for you.  
+- **Error-Free Execution**: Automatically detects and fixes script errors in a loop.  
+- **Blender API Lookups**: Uses official API, manual, and Stack Exchange for references.  
+- **Enhances Every Workflow**: Removes unnecessary clicks across all Blender functions.  
+- **Fully Integrated with Blender**: Works within the N-Panel for easy access.  
+
+## Installation  
+### Windows Users  
+- Pre-packaged with dependencies.  
+- Install from Blender’s Preferences menu.  
+
+### Mac & Linux Users  
+- macOS verification in progress.  
+- Linux support coming soon.  
+- Dependencies auto-install on first run.  
+
+## How to Use  
+1. Enable the add-on in Blender’s Preferences.  
+2. Open the N-Panel (`N` key in Blender).  
+3. Click "Edit User Command" and describe the script you need.  
+4. Click "Assistant" to generate the script.  
+5. Enable "Verbose ToolTips" for detailed guidance.  
+
+## Additional Features  
+- **Restart Blender Button**: Restart without losing progress.  
+- **Show Console Button**: View script execution in real time.  
+- **Auto-Update System**: Checks for updates on startup.  
+- **Save/Delete Startup File**: Manage Blender startup configurations easily.  
+
+## Get Our Full Add-on!  
+This script generator is just one part of **FAST Animation Studio Tools**—a Blender add-on with **500+ workflow optimizations**!  
+[Check it out here!](https://fast-blender-add-ons.com/fast-animation-studio-tools-2/)  
+
+## Need Help?  
+- [Support Email](mailto:support@fast-blender-add-ons.com)  
+- Open an issue on GitHub  
+
+## Works for More Than Just Blender!  
+Want Python support beyond Blender? We can add API lookups for **OpenCV, NumPy, Pandas, and more**. Just request it!  
+
+---
+
+This add-on makes Blender scripting accessible for everyone. Try it now and revolutionize your workflow! 🚀
