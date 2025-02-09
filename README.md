@@ -14,8 +14,7 @@
 [support-url]: https://fast-blender-add-ons.com/support/
 [downloads-shield]: https://img.shields.io/github/downloads/FastBlenderAddOns/BlenderAIScripts/total?style=flat  
 [downloads-url]: https://fast-blender-add-ons.com/shop  
-[release-shield]: https://img.shields.io/github/v/release/FastBlenderAddOns/BlenderAIScripts?style=flat  
-[release-url]: https://fast-blender-add-ons.com/releases  
+
 
 ![Blender AI Screenshot](https://fast-blender-add-ons.com/images/blender-ai-screenshot.png)  
 </div>
