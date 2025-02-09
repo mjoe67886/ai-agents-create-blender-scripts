@@ -1,4 +1,4 @@
-# ai-agents-create-blender-scripts
+🚀 AI Agents: Create Blender Scripts 🎨🖥️
 
 License
 
@@ -16,7 +16,8 @@ The AI looks up the Blender manual and API for you.
 
 It generates an optimized, error-free script automatically.
 
-🌎 Learn more at Fast Blender Add-Ons.
+🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
+📩 For more information, contact us at: support@fast-blender-add-ons.com
 
 What Makes This Different?
 
@@ -28,7 +29,8 @@ Figure out what went wrong
 
 Try multiple times to debug it
 
-💡 Our system does all of this for you automatically!
+✅ Our system does all of this for you automatically!
+
 ✅ It tests the script
 ✅ Finds errors and fixes them in a loop
 ✅ Uses Blender API, manual, and Stack Exchange lookups
@@ -81,19 +83,20 @@ This add-on includes several workflow-enhancing tools, accessible through the ri
 ✅ Open N-Panel Button (Quickly opens the add-on panel for easy access)
 ✅ Auto-Update System (Notifies you of new updates at startup and allows you to install them with one click)
 
-🌎 Learn more at Fast Blender Add-Ons.
+🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
+📩 For more information, contact us at: support@fast-blender-add-ons.com
 
 Try Our Flagship Add-on for 500+ More Features!
 
 This script generator is just one feature pulled from our full FAST Animation Studio Tools add-on, which includes over 500 workflow optimizations for Blender.
 
-🌟 FAST Animation Studio Tools
+🌟 FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
-✅ Improves Everything in Blender—Lighting, Cameras, Animation, and More!
+✅ Improves Everything in Blender (Literally...and we can prove that!) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
 ✅ Includes This AI Script Generator & 500+ Additional Operators
 ✅ A Fully Optimized System for Blender Users
 
-💡 Check out our full add-on here: FAST Animation Studio Tools
+💡 Check out our full add-on here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
-🚀 Upgrade to the full version and optimize everything in Blender with the biggest Blender add-on in the world, code-wise!
+🚀 Upgrade to the full version and optimize everything in Blender with the Biggest Blender Add-On in The World, code-wise!
 
