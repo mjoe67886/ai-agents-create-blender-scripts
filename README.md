@@ -1,21 +1,21 @@
-🚀 AI Agents: Create Blender Scripts 🎨🖥️
-    (Actual code coming tomorrow 2-10-2025)
+🚀 AI AGENTS: CREATE BLENDER SCRIPTS 🎨🖥️
+    (Actual code coming tomorrow — 2/10/2025)
 
-🔹 This is a serious AI-powered system—20,000+ lines of seamlessly integrated code, developed over a year. 
-🔹 Unlike simple repositories with a basic OpenAI request loop, this is an advanced automation tool built to, 
-🔹 revolutionize Blender scripting.
+✨ This is a serious AI-powered system—20,000+ lines of seamlessly integrated code, developed over a year.
 
-🔹 We’re offering this feature for free to raise awareness of our full Blender add-on, 
-🔹 ...as...we would be literally screwing 23 million Blender users if,
-🔹 we don't get the word out that we sell THE Biggest Blender Add on In the World, code wise! 
-🔹 And...that it removes clicks from literally every Blender process!  
+🤖 Not a simple repository, this is an advanced AI tool built to revolutionize Blender scripting.
 
-🔹 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
+🎁 We’re offering this feature for FREE to raise awareness of our full Blender add-on.
+
+⚠️ We would be literally screwing 23 million Blender users if:
+
+🌍 We don’t get the word out that we sell THE BIGGEST Blender Add-on In the World, code-wise for just $20!
+
+⚡ And...that it removes clicks from literally every Blender process!!...LITERALLY!!
+
+🌎 fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
 
-🚀 License
-
-🔹See the LICENSE.txt file included in this repository.
 
 
 ✅ About This Add-on
@@ -24,16 +24,17 @@
 
 🚀 Anyone Can Write Blender Scripts—Even Non-Coders!
 
-Just describe what you want to automate.
+🚀 Just describe what you want to automate.
 
-The AI looks up the Blender manual and API for you.
+🚀 The AI looks up the Blender manual and API for you.
 
-It generates an optimized, error-free script automatically.
+🚀 It generates an optimized, error-free script automatically.
 
 
 🌎 Learn more at Fast Blender Add-Ons: fast-blender-add-ons.com
 
 🌎 For more information, contact us at: support@fast-blender-add-ons.com
+
 
 
 
@@ -61,7 +62,6 @@ Normally, generating Blender scripts with AI (like ChatGPT) can be frustrating. 
 
 ✅ Installation Instructions
 
-📌 This add-on installs like any standard Blender add-on, with one key difference:
 
 ✅ Windows Users
 
@@ -83,7 +83,7 @@ Normally, generating Blender scripts with AI (like ChatGPT) can be frustrating. 
 📌 Let the installation process complete, then start using the AI script generator!
 
 
-1️⃣ How to Use
+✅ How to Use
 
 1️⃣ Enable the Add-on in Blender’s preferences.
 
@@ -115,17 +115,17 @@ Normally, generating Blender scripts with AI (like ChatGPT) can be frustrating. 
 📌 Auto-Update System (Notifies you of new updates at startup and allows you to install them with one click)
 
 
-✅ Try Our Flagship Add-on for 500+ More Features!
+✅ Try Our Flagship Add-on for 500++ More Features!
 
 📌 This script generator is just one feature pulled from our full FAST Animation Studio Tools add-on, which includes over 500 workflow optimizations for Blender.
 
 📌 FAST Animation Studio Tools: 🌎 https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
-📌 Improves Everything in Blender (Literally...We can prove it!!) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
+📌 Improves Everything in Blender (Literally...) Lighting, Cameras, Animation, Transforms, Edit Mode, Keying and More!
 
-📌 Includes This AI Script Generator & 500+ Additional Operators
+📌 Includes This A.I. Script Generator & 500+ Additional Operators
 
-📌 Check out our full add-on here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
+📌 Check it out here: FAST Animation Studio Tools: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/
 
 
 ✅ Need Help or Have a Feature Request?
