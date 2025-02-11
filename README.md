@@ -52,10 +52,12 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 
 ## How to Use  
 1. Enable the add-on in Blender’s Preferences.  
-2. Open the N-Panel (`N` key in Blender).  
-3. Click "Edit User Command" and describe the script you need.  
-4. Click "Assistant" to generate the script.  
-5. Enable "Verbose ToolTips" for detailed guidance.  
+2. 📢 **Check the Blender console!** The add-on will prompt you to enable AI features. You must confirm this in the console before AI functionality is activated.  
+3. Open the N-Panel (`N` key in Blender).  
+4. Click "Edit User Command" and describe the script you need.  
+5. Click "Assistant" to generate the script.  
+6. Enable "Verbose ToolTips" for detailed guidance.  
+
 
 ## Additional Features  
 - **Restart Blender Button**: Restart without losing progress.  
