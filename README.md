@@ -2,7 +2,11 @@
 
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
-🚨 **Update (February 10, 2025):** We needed one more day for final testing, so the full upload is now planned for **February 11, 2025**. Thanks for your patience—excited to share it soon! 🚀  
+🚨 Update (February 11, 2025): We made huge progress today, narrowing everything down to just a few small variable tweaks which are left. The core functionality is fully in place, and we’re now in the final stretch of fine-tuning.
+
+Because of this, we’re pushing the full upload to February 12, 2025 to ensure everything is polished and ready to go. Thanks for your patience and all the incredible interest—we’re excited to share it with you tomorrow! 🚀🔥
+
+
 
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
