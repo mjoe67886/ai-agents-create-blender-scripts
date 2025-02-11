@@ -21,7 +21,8 @@
 </div>
 
 ## About This Add-on  
-**Create your own Blender add-ons using AI.** This add-on by Joe Morris uses many data sources like the **Blender Manual and Stack Exchange** to help you build a stable solution.  
+**An AI-powered script generator with automatic error fixing—it generates, tests, and fixes Blender scripts for you.**  
+
 
 ### **Introducing the Ultimate Script Generator for Blender 4.3**  
 The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST Blender add-on IN THE WORLD (code-wise)**!  
