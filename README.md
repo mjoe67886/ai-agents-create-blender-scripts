@@ -54,13 +54,84 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 - Linux support coming soon.  
 - Dependencies auto-install on first run.  
 
-## How to Use  
-1. Enable the add-on in Blender’s Preferences.  
-2. 📢 **Check the Blender console!** The add-on will prompt you to enable AI features. You must confirm this in the console before AI functionality is activated.  
-3. Open the N-Panel (`N` key in Blender).  
-4. Click "Edit User Command" and describe the script you need.  
-5. Click "Assistant" to generate the script.  
-6. Enable "Verbose ToolTips" for detailed guidance.  
+## How to Use:
+
+### 1. Enable the Add-On  
+In **Blender's Preferences**, activate the add-on.
+
+### 2. Confirm AI Features  
+📢 **Check the Blender console!** The add-on will prompt you to enable AI functionality. You must confirm this prompt in the console before AI features will activate.
+
+### 3. Open the N-Panel  
+Press the `N` key in Blender to open the **N-Panel**.
+
+### 4. Generate Scripts  
+- Click **"Edit User Command"** and describe the script you need.  
+- Click **"Assistant"** to generate the script.  
+
+### 5. Enable **Verbose ToolTips**  
+- This feature provides **detailed, built-in documentation** for every tooltip inside the Blender AI panels.  
+- **Highly recommended**: Spend **about 30 minutes** reading through it so you understand what’s available and how features work together.  
+- The add-on is designed to be user-friendly, but **reading the documentation first will ensure the best experience**.  
+- If the script generator encounters an error it can't resolve, **fixing it is easy**—but you’ll want to **know how the system works**.  
+
+---
+
+## **OpenAI API Key Requirement**
+To use AI features, you must enter your OpenAI API key:
+
+1. Go to [OpenAI API keys page](https://platform.openai.com/account/api-keys).  
+2. **Log in** and retrieve your API key.  
+3. **If you don’t have one**, generate a new key on that page.  
+4. **Keep your API key secure**—don’t share it publicly.  
+
+🔹 **How the AI Works**  
+- The add-on runs OpenAI models **in a loop**, perfecting code over **5 iterations by default**.  
+- Each run **typically takes 1 to 5 minutes** and **costs around 30 to 50 cents**.  
+- **We've implemented the GPT-03 Mini model** as a option for some of our **commonly used helper functions** that support the main AI assistant responsible for generating code.  
+- **This likely reduces costs**, but we haven't fully tested it yet. If you experience issues, **switch back to GPT-4o in the settings** to ensure stability.  
+
+🚀 **Upcoming AI Enhancements**  
+We are actively testing the **GPT-03 Mini model as an alternative for the main assistant**. In our first test, it generated **600 lines of code**, while **GPT-4o maxed out at 358 lines**. This increased output is promising, but we need further testing to ensure all **helper functions work reliably with it** before making it a selectable option.  
+
+Our approach is to **give users flexibility**—whenever we introduce a new model, it will be **tickable in the settings**, allowing you to **choose the AI setup that works best for your needs**. We will always keep **GPT-4o as an option** so users can revert to it at any time if they prefer.  
+
+We are also evaluating **free AI models like DeepSeek** to see if they can match GPT-4o’s capabilities. If they perform well, we’ll integrate them as an **optional setting**, providing users with additional **cost-saving choices**.  
+
+🔹 **Our Approach to AI Optimization**  
+- We’ve worked extensively with **GPT-4o since launch** and optimized our workflows to **maximize its accuracy and efficiency**.  
+- While some users report varied experiences with GPT-4o, **our prompting methods ensure exceptional results**.  
+- We recognize that AI models can fluctuate in performance, so we are committed to **keeping previous models available as backup options**.  
+
+💡 **What’s Next?**  
+We're focused on **expanding your choices** while maintaining **high-quality script generation**. Whether that means **fully integrating GPT-03 Mini for larger outputs** or **introducing reliable free models**, our goal is to **lower costs while keeping quality high**.  
+
+Stay tuned—these enhancements are **on the near horizon**! 🚀  
+
+
+⚠️ **Token Calculation Warning:**  
+Right now, the displayed token usage **does not yet reflect the actual cost reduction when selecting the 03 Mini model**.  
+- We're working on updating the token calculations, and **this update should be available tomorrow**.  
+- **For now, expect some commonly used functions to cost about half as much**, while maintaining good performance.  
+
+---
+
+By default, the AI is designed to **balance quality and cost**, but if you're troubleshooting issues, switching back to **GPT-4o** is recommended for now. 🚀  
+
+
+## **Future Upgrades & Free AI Models**
+We have **many upgrades planned**, and we’re prioritizing **cost reduction** for AI usage.  
+
+- **We welcome feature requests**! We’ll add the most exciting ones to our upgrade list—unless we have even bigger plans in the pipeline.  
+- **The first major improvement will be testing free AI models** (like **DeepSeek** and others) to see if they can match OpenAI’s quality.  
+- **Important:** We haven’t tested DeepSeek yet for this use case. **Some open-source models haven’t performed well**, so we’ll carefully evaluate them before recommending any alternatives.  
+- **Right now, OpenAI’s GPT-4o model is the best option.** However, lowering costs is a top priority, and we’ll test these free models as soon as we need to update our own code.  
+
+📢 **We’re busy with our main Blender add-on, but we’re committed to optimizing AI costs for users as soon as possible!**  
+
+---
+
+By following this guide and **understanding the built-in documentation**, you’ll be able to generate scripts efficiently and take full advantage of Blender AI. 🚀  
 
 
 ## Additional Features  
