@@ -12,13 +12,12 @@ Because of this, we’re pushing the full upload to February 12, 2025 to ensure 
 [![Support][support-shield]][support-url]  
 [![Downloads][downloads-shield]][downloads-url]  
 
-
 [website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
 [website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
 [support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
-[support-url]: https://fast-blender-add-ons.com/support/
-[downloads-shield]: https://img.shields.io/github/downloads/FastBlenderAddOns/BlenderAIScripts/total?style=flat  
-[downloads-url]: https://fast-blender-add-ons.com/shop  
+[support-url]: https://fast-blender-add-ons.com/support/  
+[downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
+[downloads-url]: https://fast-blender-add-ons.com/shop
 
 
 ![Blender AI Screenshot](https://fast-blender-add-ons.com/images/blender-ai-screenshot.png)  
