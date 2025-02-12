@@ -2,9 +2,13 @@
 
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
-🚨 Update (February 11, 2025): We made huge progress today, narrowing everything down to just a few small variable tweaks which are left. The core functionality is fully in place, and we’re now in the final stretch of fine-tuning.
+# 🚨 Update (February 12, 2025)
 
-Because of this, we’re pushing the full upload to February 12, 2025 to ensure everything is polished and ready to go. Thanks for your patience and all the incredible interest—we’re excited to share it with you tomorrow! 🚀🔥
+Hey everyone, we wanted to give you a quick update. Things took a little longer than expected, so we’re pushing the full upload to **February 13, 2025**—just one more day!
+
+The reason for this slight delay is that we're **converting one of the main features from our primary add-on into a separate add-on**. The feature itself is already well-tested and works great, but we’re now fine-tuning the surrounding functionality to ensure everything works seamlessly inside the separated add on.
+
+We appreciate your patience and all the support! We’re really excited to share this with you **tomorrow**! 🚀🔥
 
 
 
@@ -107,6 +111,11 @@ We're focused on **expanding your choices** while maintaining **high-quality scr
 
 Stay tuned—these enhancements are **on the near horizon**! 🚀  
 
+## **Caveat: First Release Update System Notice ⚠️**  
+We're pushing to get this to you **as soon as possible**, so while we **are including an add-on update system**, it **has not been fully tested yet**.  
+
+🔹 **What to do?**  
+✅ **Manually check for updates** on **GitHub** until you see a console message confirming the update system is working properly, or this is removed.  
 
 ⚠️ **Token Calculation Warning:**  
 Right now, the displayed token usage **does not yet reflect the actual cost reduction when selecting the 03 Mini model**.  
