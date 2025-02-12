@@ -40,7 +40,7 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 - **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set allows even **non-programmers to resolve errors in 5-10 minutes.**  
 - **Hail Mary Fix Attempt**: The system performs a final attempt to **automatically solve complex issues**, so manual fixing might not be necessary.  
 - **Optimized for Animation & Nodes**: Works especially well for **automation scripts, shader setups, compositor nodes, and geometry nodes.**  
-- **World-Class Customer Support**: Any issue reported is likely to be **fixed the same day.**  
+- **World-Class Customer Support**: We will start fixing any issue reported **immediately**  
 
 [More information here!](https://fast-blender-add-ons.com/)  
 ## Installation  
