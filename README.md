@@ -176,10 +176,17 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 - [Support Email](mailto:support@fast-blender-add-ons.com)  
 - Open an issue on GitHub  
 
-## Works for More Than Just Blender!  
-Want Python support beyond Blender? We can add API lookups for **OpenCV, NumPy, Pandas, and more**. Just request it!  
+## Watch These Videos 📺
+
+### How It Works - Part 1  
+[![How It Works - Part 1](https://img.youtube.com/vi/_CaFP8KjZz0/0.jpg)](https://youtu.be/_CaFP8KjZz0)
+
+### How It Works - Part 2  
+[![How It Works - Part 2](https://img.youtube.com/vi/F8UzMOiVUsA/0.jpg)](https://youtu.be/F8UzMOiVUsA)
 
 ---
 
 This add-on makes Blender scripting accessible for everyone. Try it now and revolutionize your workflow! 🚀
+
+
 
