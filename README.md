@@ -128,10 +128,6 @@ We're pushing to get this to you **as soon as possible**, so while we **are incl
 🔹 **What to do?**  
 ✅ **Manually check for updates** on **GitHub** until you see a console message confirming the update system is working properly, or this is removed.  
 
-⚠️ **Token Calculation Warning:**  
-Right now, the displayed token usage **does not yet reflect the actual cost reduction when selecting the 03 Mini model**.  
-- We're working on updating the token calculations, and **this update should be available tomorrow**.  
-- **For now, expect some commonly used functions to cost about half as much**, while maintaining good performance.  
 
 ---
 
