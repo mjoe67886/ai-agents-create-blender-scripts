@@ -24,7 +24,7 @@ We appreciate your patience and all the support! We’re really excited to share
 [downloads-url]: https://fast-blender-add-ons.com/shop
 
 
-![Blender AI Screenshot](https://fast-blender-add-ons.com/images/blender-ai-screenshot.png)  
+
 </div>
 
 ## About This Add-on  
