@@ -176,14 +176,16 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 - [Support Email](mailto:support@fast-blender-add-ons.com)  
 - Open an issue on GitHub  
 
-## 📺 Watch These Videos 
+
+
+
+## 📺 Should Watch These Videos 
 
 ### 🎬 Intro  
-[![How It Works - Part 1](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
+[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)
 
 ### 🎥 How It Works  
-[![How It Works - Part 2](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)
-
+[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
 
 ---
 
