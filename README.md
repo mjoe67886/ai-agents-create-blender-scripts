@@ -76,7 +76,18 @@ Press the `N` key in Blender to open the **N-Panel**.
 - This feature provides **detailed, built-in documentation** for every tooltip inside the Blender AI panels.  
 - **Highly recommended**: Spend **about 30 minutes** reading through it so you understand what’s available and how features work together.  
 - The add-on is designed to be user-friendly, but **reading the documentation first will ensure the best experience**.  
-- If the script generator encounters an error it can't resolve, **fixing it is easy**—but you’ll want to **know how the system works**.  
+- If the script generator encounters an error it can't resolve, **fixing it is easy**—but you’ll want to **know how the system works**.
+- 
+## Handling Errors: The Easiest Debugging System Ever
+
+We’ve made fixing errors **so simple that even a kid could do it**—seriously! 🚀  
+
+If the script generator encounters an error it **can’t get past**, you can resolve it in **just 5-10 minutes** using our **guided instruction system**. This means **anyone** can keep their script generator running smoothly, without needing deep programming knowledge.  
+
+### **Pro Tip for Coders:**
+If you know a function has an issue, **just throw it into the script generator**. Our AI is **explicitly instructed not to change your code structure**, so you can **trust it completely**. We regularly do this ourselves—just let the AI handle the debugging while you focus on creating!  
+
+🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**.  
 
 ---
 
