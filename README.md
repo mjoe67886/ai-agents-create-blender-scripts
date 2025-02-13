@@ -178,10 +178,10 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 
 ## Watch These Videos 📺
 
-### How It Works - Part 1  
+### Intro:  
 [![How It Works - Part 1](https://img.youtube.com/vi/_CaFP8KjZz0/0.jpg)](https://youtu.be/_CaFP8KjZz0)
 
-### How It Works - Part 2  
+### How It Works:  
 [![How It Works - Part 2](https://img.youtube.com/vi/F8UzMOiVUsA/0.jpg)](https://youtu.be/F8UzMOiVUsA)
 
 ---
