@@ -2,13 +2,31 @@
 
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
-## 🚨 Update (February 13, 2025)
+## 🚨 Update (February 14, 2025)
 
-Hey everyone, **we need just one more day!** We’re really close—right now, we’re just finalizing **tooltips and documentation**, along with a few last-minute tests. Once that's done, we’ll be able to upload the **Windows version**. 
+Hey everyone, **we're all done!** 🎉 The tooltips, documentation, and final tests are complete—we're fully ready to upload. 
 
-As soon as the Windows version is live, we’ll be working **every day on the Mac version** until it’s ready. **We’re almost there!** 💪🔥
+However, since it's the end of the day and we want to be available in case of any issues, **we're holding off on the upload until first thing tomorrow.** That way, we can ensure everything goes smoothly and be here to assist if needed. 
+
+Thanks for your patience—**it’s happening tomorrow!** 🚀💪
 
 ---
+
+### ⚠️ One Quick Note
+We're going to upload everything as planned, but we’ve noticed something interesting during our testing. The **example pulling functionality** has been working **most of the time**, and in most cases, the assistant finds the right examples. However, when testing a **basic Geometry Nodes script**, the assistant wasn’t pulling the correct **Geometry Nodes code examples** from the file. 
+
+Since part of what we’re doing is **guiding the AI assistant to locate the correct examples**, this is something we’ll be optimizing right away. The **example system itself works well**, but we want to ensure it consistently finds the proper references. 
+
+To avoid unnecessary processing costs, **we recommend avoiding Geometry Nodes script generation if it doesn’t pull the correct examples**. However, keep in mind that on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples there** apart from the AI's example pulling functionality, which processes a **200,000-line file** to find references. 
+
+We’re currently **optimizing the vector search functionality** to make sure it consistently retrieves the right examples from that file. In the meantime, you can **manually provide single code examples**—such as functions, operators, or small scripts—in `main_file.py`. It’s best to keep `main_file.py` limited to **one** example at a time, but you can also use the **instruction set system** to fine-tune the assistant’s responses.
+
+---
+
+### 🎥 Coming Soon: Special Section & Video Guide
+We’re going to **add a dedicated section and video** explaining exactly how to use these tools to refine the assistant’s output and improve example retrieval. Stay tuned!
+
+
 
 ### 📌 FYI: Start Amassing Blender Code Examples to Get the Best Results  
 
