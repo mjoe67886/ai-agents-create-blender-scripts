@@ -20,7 +20,10 @@ Since this **standalone version** doesn’t include our main add-on’s full cod
 
 ### 🧠 How Our AI Generates Perfect Scripts
 
-Our add-on uses **the same AI models as ChatGPT**, and these models generate **better scripts when given real, tested code examples**. That means the more **high-quality Blender add-ons** you provide as references, the **smarter and more accurate** your script generation will be.
+Our add-on uses **the same AI models as ChatGPT**, and these models generate **better scripts when given real, tested code examples**. That means the more **high-quality Blender add-ons** you provide as references, the **smarter and more accurate** your script generation will be.  
+
+We provide a **large example file of code** with the add-on that works fine in many cases, but if a script **isn't generating correctly**, you may need to provide **relevant code examples** related to the type of script you're trying to create.
+
 
 1️⃣ **How to Add Your Own Code Examples:**
 - You can **add entire Blender add-ons** as code references by simply **adding their file paths** to a special file.
