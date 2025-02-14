@@ -2,13 +2,46 @@
 
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
-# 🚨 Update (February 12, 2025)
+## 🚨 Update (February 13, 2025)
 
-Hey everyone, we wanted to give you a quick update. Things took a little longer than expected, so we’re pushing the full upload to **February 13, 2025**—just one more day!
+Hey everyone, **we need just one more day!** We’re really close—right now, we’re just finalizing **tooltips and documentation**, along with a few last-minute tests. Once that's done, we’ll be able to upload the **Windows version**. 
 
-The reason for this slight delay is that we're **converting one of the main features from our primary add-on into a separate add-on**. The feature itself is already well-tested and works great, but we’re now fine-tuning the surrounding functionality to ensure everything works seamlessly inside the separated add on.
+As soon as the Windows version is live, we’ll be working **every day on the Mac version** until it’s ready. **We’re almost there!** 💪🔥
 
-We appreciate your patience and all the support! We’re really excited to share this with you **tomorrow**! 🚀🔥
+---
+
+### 📌 FYI: Start Amassing Blender Code Examples to Get the Best Results  
+
+Originally, this feature was part of **our main add-on, FAST Animation Studio Tools**, where it pulled examples from the biggest Blender add-on in the world. That setup made our script generator work **amazingly well** by using real Blender automation examples.
+
+Since this **standalone version** doesn’t include our main add-on’s full codebase, it works a little differently—you’ll need to **supply your own example code or even full add-ons as examples** for the best results. Luckily, this is super easy!
+
+---
+
+### 🧠 How Our AI Generates Perfect Scripts
+
+Our add-on uses **the same AI models as ChatGPT**, and these models generate **better scripts when given real, tested code examples**. That means the more **high-quality Blender add-ons** you provide as references, the **smarter and more accurate** your script generation will be.
+
+1️⃣ **How to Add Your Own Code Examples:**
+- You can **add entire Blender add-ons** as code references by simply **adding their file paths** to a special file.
+- The system will use those add-ons to generate **high-quality, error-free scripts**.
+
+2️⃣ **Where to Find Free Blender Add-ons:**
+- **[Gumroad](https://gumroad.com/)** has **tons of free Blender add-ons** that you can use.
+- You can **filter by price** to find **free** ones.
+- Look for add-ons that match **the type of scripts you want to generate**.
+
+3️⃣ **Choosing the Right Add-ons for Best Results:**
+- **Make sure the add-ons you choose are updated for Blender 4.0+** for maximum compatibility.
+- If necessary, you can go down to **Blender 3.6**, but be aware that **major changes happened between 3.6 and 4.0**.
+- Using outdated add-ons **may introduce issues** due to API changes.
+
+4️⃣ **Why This Matters:**
+- **LLM that generate code perform best with real, up-to-date code.**  
+- If you **don’t know how to code**, you’ll get much better results by giving the system **code examples**.  
+- **Note: This system uses AI to determine the perfect code examples to use so they are provided without need of user interaction.**  
+
+
 
 
 
