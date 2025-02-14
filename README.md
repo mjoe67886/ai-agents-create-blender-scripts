@@ -23,8 +23,13 @@ We’re currently **optimizing the vector search functionality** to make sure it
 
 ---
 
-### 🎥 Coming Soon: Special Section & Video Guide
-We’re going to **add a dedicated section and video** explaining exactly how to use these tools to refine the assistant’s output and improve example retrieval. Stay tuned!
+### 🎥 Coming Soon: Special Section & Video Guide  
+We’re going to **add a short video** explaining exactly how to use the **instruction set system** to refine the assistant’s output.  
+
+For now, we have a **full-length tutorial video** at the bottom of the page, that includes that information toward the end, and we highly recommend watching it to fully understand how everything works. 
+
+If you have any **questions, issues, video documentation request or feedback**, please use the **GitHub issue reporting section**—you're helping us improve! 🚀
+
 
 
 
