@@ -96,11 +96,11 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 ## Features  
 - **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
 - **Automatic Error Handling**: Runs the script, detects issues, and automatically fixes errors in a loop.  
-- **Smart Code Lookup**: Searches the **Blender API, Blender Manual, Blender Stack Exchange, and your own database of code examples** for solutions.  
+- **Smart Code Lookup**: Searches the **Blender API, Blender Manual, and your own database of code examples** for solutions.  
 - **Version Compatibility**: Converts older scripts to **Blender 4.3 compatibility** automatically.  
 - **Boost User Command Feature**: Optimizes your input to be **Blender Manual-compatible** for better results.  
 - **Self-Updating Fixes**: Can locate and retrieve example scripts from our **internal database** or even **external add-ons** you specify.  
-- **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set allows even **non-programmers to resolve errors in 5-10 minutes.**  
+- **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set system allows even **non-programmers to resolve errors in 5-10 minutes.** 
 - **Hail Mary Fix Attempt**: The system performs a final attempt to **automatically solve complex issues**, so manual fixing might not be necessary.  
 - **Optimized for Animation & Nodes**: Works especially well for **automation scripts, shader setups, compositor nodes, and geometry nodes.**  
 - **World-Class Customer Support**: We will start fixing any issue reported **immediately**  
