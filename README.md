@@ -7,8 +7,8 @@
 Repo has an error please wait or be prepared to download again and a half hour
 
 
-## 🚀 Repository Naming Update 🚀  
-I apologize for the mismatch between the repository name and the SEO-optimized add-on name. We will research naming options tomorrow!
+## 🚀 Repository Naming Issue🚀  
+**For tonight: You must install the add-on manually and rename the module folder to  'blender_ai_thats_error_proof' before using. We will fix having to do this early tomorrow.**
 
 ---
 
