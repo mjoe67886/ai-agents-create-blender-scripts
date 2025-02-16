@@ -33,6 +33,17 @@
 [More information here!](https://fast-blender-add-ons.com/)  
 ---
 
+## 📺 You Should Watch These Videos 
+
+### 🎬 Intro  
+[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)
+
+### 🎥 How It Works  
+[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
+
+---
+
+
 ## ⚠️ Caveats & Important Notes ⚠️  
 
 ### ⚠️ **Repository Naming Issue**  
@@ -154,13 +165,6 @@ We provide a **large example file of code** with the add-on that works fine in m
 - **Highly recommended:** Spend **about 30 minutes** reading tooltips to understand all available features.  
 - The add-on is **user-friendly**, but reading the documentation will help **unlock its full potential**.  
 - If the script generator encounters an issue, **tooltips will guide you on how to resolve it quickly.**  
-
-
-### **Pro Tip for Coders:**
-If you know a function has an issue, **just throw it into the script generator**. Our AI is **explicitly instructed not to change your code structure**, so you can **trust it**. We regularly do this ourselves—just let the AI handle the debugging while you focus on creating scenes!  
-
-🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**. **It's designed for coders and non coders** alike making it so everybody can continuously generate error free code regardless.
-
 ---
 🔹 **How the AI Works**  
 - The add-on runs OpenAI models **in a loop**, perfecting code over **5 iterations by default**.  
@@ -169,6 +173,7 @@ If you know a function has an issue, **just throw it into the script generator**
 - **This likely reduces costs**, but we haven't fully tested it yet. If you experience issues, **switch back to GPT-4o in the settings** to ensure stability.  
  fluctuate in performance, so we are committed to **keeping previous models available as backup options**.  
 
+🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**. **It's designed for coders and non coders** alike making it so everybody can continuously generate error free code regardless.
 
 ## Additional Addon Features. Handy Contexxt Menu Buttons.  
 - **Restart Blender Button**: Restart without losing progress.  
@@ -177,6 +182,8 @@ If you know a function has an issue, **just throw it into the script generator**
 - **Save/Delete Startup File**: Manage Blender startup configurations easily.  
 - **Verbose Tool-tip System**: View comprehensive documentation inside the add-on.
 - **Auto-Update System**: Checks for updates on startup.
+
+
 
 
 ## Get Our Full Add-on!  
@@ -191,31 +198,6 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 
 👉 **Don’t Miss Out—See What You’ve Been Missing!**  
 [Check it out here!](https://fast-blender-add-ons.com/fast-animation-studio-tools-2/)  
-
-
-
-
-## Need Help?  
-- [Support Email](mailto:support@fast-blender-add-ons.com)  
-- Open an issue on GitHub  
-
-
-
-## 📺 Should Watch These Videos 
-
-### 🎬 Intro  
-[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)
-
-### 🎥 How It Works  
-[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
-
----
-
-### 🎥 Coming Soon: Special Section & Video Guide  
-We’re going to **add a short video** explaining exactly how to use the **instruction set system to consistently generate perfect code with no coding experience (way easier than on ChatGPT, a 6th grader could do this!)**
-
-For now, we have a **full-length tutorial video** above, that includes that information toward the end, and we highly recommend watching it to fully understand how everything works. 
-
 
 
 
