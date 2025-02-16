@@ -16,7 +16,7 @@
 [downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
 [downloads-url]: https://fast-blender-add-ons.com/shop
 
-**We ripped part of our A.I. code FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD (code-wise) for your enjoyment.!**  
+**We ripped code outta FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD!! (code-wise) for your enjoyment.!**  
 </div>
 ## Features  
 - **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
