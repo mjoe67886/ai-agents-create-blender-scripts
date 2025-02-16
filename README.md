@@ -6,33 +6,6 @@
 **The most powerful AI-powered Blender scripting tool.**  
 
 
-# 🚨 **IMPORTANT: RENAME THE ADD-ON FOLDER BEFORE USING!** 🚨
-
-## **Windows Installation Instructions:**
-1. **Double-click the ZIP file**  
-   - This will open the contents of the ZIP file.
-
-2. **Drag or Copy & Paste the Folder**  
-   - Move the folder inside the ZIP to:  
-     ```
-     Blender's scripts/addons/ directory
-     ```
-
-3. **Rename the Folder**  
-   - Once inside `scripts/addons/`, rename the folder to:  
-     ```
-     blender_ai_thats_error_proof
-     ```
-
-4. **Start Blender & Enable the Add-on**  
-   - Open **Blender**  
-   - Go to **Edit** → **Preferences** → **Add-ons**  
-   - Find **Blender AI That's Error Proof** and enable it  
-
-🚀 **This only works on Windows for now!** 🚀  
-🔧 **Mac support is coming soon—we're finishing up the upgrade!** 🔧
-
-🚀 ** I apologize but I tried to come up with a punchy name for the repository and it didn't match my SEO optimized name for the add-on. We will research naming options tomorrow!** 🚀  
 ---
 
 ### ⚠️ One Quick Note
