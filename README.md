@@ -1,7 +1,7 @@
 <div align="center">
 
-## AI Agents: Create Blender Scripts 🎨🖥️  
-## The most powerful AI-powered Blender scripting tool.  
+### AI Agents: Create Blender Scripts 🎨🖥️  
+### The most powerful AI-powered Blender scripting tool.  
 
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
@@ -13,9 +13,6 @@
 [support-url]: https://fast-blender-add-ons.com/support/  
 [downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
 [downloads-url]: https://fast-blender-add-ons.com/shop
-
-
-### **Introducing the Ultimate Script Generator for Blender 4.3**  
 
 **We ripped part of our A.I. code FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD (code-wise) for your enjoyment.!**  
 
