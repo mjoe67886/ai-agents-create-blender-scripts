@@ -102,48 +102,23 @@ We provide a **large example file of code** with the add-on that works fine in m
 
 ### Windows Users  
 
-#### 1. Download & Extract  
-- **Pre-packaged with dependencies.**  
-- **Double-click the ZIP file** to open it.  
-- **Drag or Copy & Paste** the folder inside the ZIP to: **Blender's `scripts/addons/` directory**  
-- **Rename the folder** to:  
-
-#### 2. Enable the Add-On in Blender  
+### 1. Install & Enable the Add-On  
 - Open **Blender**  
 - Go to **Edit** → **Preferences** → **Add-ons**  
-- Find **Blender AI That's Error Proof** and enable it  
-
-#### 3. Confirm AI Features in the Blender Console  
-📢 **Check the Blender console!**  
-- The add-on will prompt you to install AI-related files.  
-- **Press "Y" in the console to proceed.**  
-- **Wait for the PIP libraries to install automatically.**  
-
-#### 4. Enter Your API Key in the Blender AI2 Panel  
-- Open Blender’s **N-Panel** by pressing **N**.  
-- Navigate to **Blender AI2**.  
-- **Enter your OpenAI API key** to unlock full functionality.  
-
-### Mac & Linux Users   
-- **Mac & Linux support is coming soon.**  
-- Dependencies will **auto-install on the first run.**  
-
-## How to Use  
-
-### 1. Enable the Add-On  
-- Open **Blender**  
-- Go to **Edit** → **Preferences** → **Add-ons**  
-- Find **Blender AI That's Error Proof** and enable it  
+- Click the **downward triangle** (top-right) and select **Install from Disk**  
+- Locate and select the **Blender AI That's Error Proof** `.zip` file  
+- Click **Install Add-on**  
+- Find **Blender AI That's Error Proof** in the list and enable it  
 
 ### 2. Confirm AI Features in the Blender Console  
-📢 **Check the Blender console!**  
+📢 **Immediately Check the Blender console!**  
 - The add-on will prompt you to install AI-related files.  
 - **Press "Y" in the console to proceed.**  
-- **Wait for the PIP libraries to install automatically.**  
+- **Wait for the PIP libraries to install automatically. (1 to 3 min. install)**  
 
-### 3. Enter Your API Key in the Blender AI 2 Panel  
+### 3. Enter Your OpenAI API Key in the Blender AI 2 Panel  
 - Open Blender’s **N-Panel** by pressing **N**.  
-- Navigate to **Blender AI2**.  
+- Navigate to **Blender A.I. Panel 3**.  
 - **Enter your OpenAI API key** to unlock full functionality.  
 
 ### 4. Generate Scripts  
@@ -154,7 +129,11 @@ We provide a **large example file of code** with the add-on that works fine in m
 - Provides **detailed, built-in documentation** inside all Blender AI panels.  
 - **Highly recommended:** Spend **about 30 minutes** reading tooltips to understand all available features.  
 - The add-on is **user-friendly**, but reading the documentation will help **unlock its full potential**.  
-- If the script generator encounters an issue, **tooltips will guide you on how to resolve it quickly.**  
+- If the script generator encounters an issue, **tooltips will guide you on how to resolve it quickly.**
+
+### Mac & Linux Users   
+- **Mac & Linux support is coming soon.**  
+- Dependencies will **auto-install on the first run.**  
 ---
 
 🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**. **It's designed for coders and non coders** alike making it so everybody can continuously generate error free code regardless.
