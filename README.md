@@ -46,7 +46,7 @@
 ### ⚠️ **First Release Update System Notice**  
 - The **add-on update system is included** but **has not been fully tested yet**.  
 
-- **Fix coming 2-17**  
+- **Fix coming 2-17-2025**  
 
 ### ⚠️ **Example Retrieval Optimization**  
 - The system **usually** pulls correct examples, but **some Geometry Nodes scripts or others may not retrieve the right references**.  
