@@ -168,14 +168,9 @@ We provide a **large example file of code** with the add-on that works fine in m
 - The add-on is **user-friendly**, but reading the documentation will help **unlock its full potential**.  
 - If the script generator encounters an issue, **tooltips will guide you on how to resolve it quickly.**  
 ---
-🔹 **How the AI Works**  
-- The add-on runs OpenAI models **in a loop**, perfecting code over **5 iterations by default**.  
-- Each run **typically takes 1 to 5 minutes** and **costs around 30 to 50 cents**.  
-- **We've implemented the GPT-03 Mini model** as a option for some of our **commonly used helper functions** that support the main AI assistant responsible for generating code.  
-- **This likely reduces costs**, but we haven't fully tested it yet. If you experience issues, **switch back to GPT-4o in the settings** to ensure stability.  
- fluctuate in performance, so we are committed to **keeping previous models available as backup options**.  
 
 🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**. **It's designed for coders and non coders** alike making it so everybody can continuously generate error free code regardless.
+
 
 ## Additional Addon Features. Handy Contexxt Menu Buttons.  
 - **Restart Blender Button**: Restart without losing progress.  
