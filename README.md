@@ -10,16 +10,27 @@
    - This will open the contents of the ZIP file.
 
 2. **Drag or Copy & Paste the Folder**  
-   - Move the folder inside the ZIP to: Blender's scripts/addons/ directory
+   - Move the folder inside the ZIP to:  **Blender's scripts/addons/ directory**
 
 3. **Rename the Folder**  
-   - Once inside `scripts/addons/`, rename the folder to: blender_ai_thats_error_proof
+   - Once inside `scripts/addons/`, rename the folder to:  **blender_ai_thats_error_proof**
 
 4. **Start Blender & Enable the Add-on**  
    - Open **Blender**  
    - Go to **Edit** → **Preferences** → **Add-ons**  
    - Find **Blender AI That's Error Proof** and enable it  
 
+
+## 🔧 **Finalizing Installation**  
+Once the add-on is enabled, follow these steps to complete the installation:
+
+1. **Open the Blender Console**  
+   - When prompted, **press "Yes"** to accept the installation of A.I. data files into the `scripts/addons/` directory.  
+
+2. **Wait for PIP Libraries to Install**  
+   - The system will automatically install the required Python libraries.  
+   - **Do not close Blender** until this process is complete.
+   - 
 🚀 **This only works on Windows for now!** 🚀  
 🔧 **Mac support is coming soon—we're finishing up the upgrade!** 🔧  
 
