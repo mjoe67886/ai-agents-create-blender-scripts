@@ -4,7 +4,7 @@
 **The most powerful AI-powered Blender scripting tool.**  
 
 
-Repo error was fixed but you have to rename the add on folder be prepared for how to use section in like 5 minutes.
+Repo has an error please wait or be prepared to download again and a half hour
 
 
 ## 🚀 Repository Naming Update 🚀  
@@ -116,58 +116,85 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 - **World-Class Customer Support**: We will start fixing any issue reported **immediately**  
 
 [More information here!](https://fast-blender-add-ons.com/)  
+
+
+
 ## Installation  
+
 ### Windows Users  
-- Pre-packaged with dependencies.  
-- Install from Blender’s Preferences menu.  
 
-### Mac & Linux Users  
-- macOS verification in progress.  
-- Linux support coming soon.  
-- Dependencies auto-install on first run.  
+#### 1. Download & Extract  
+- **Pre-packaged with dependencies.**  
+- **Double-click the ZIP file** to open it.  
+- **Drag or Copy & Paste** the folder inside the ZIP to:  
+  **Blender's `scripts/addons/` directory**  
+- **Rename the folder** to:  
 
-## How to Use:
+
+#### 2. Enable the Add-On in Blender  
+- Open **Blender**  
+- Go to **Edit** → **Preferences** → **Add-ons**  
+- Find **Blender AI That's Error Proof** and enable it  
+
+#### 3. Confirm AI Features in the Blender Console  
+📢 **Check the Blender console!**  
+- The add-on will prompt you to install AI-related files.  
+- **Press "Y" in the console to proceed.**  
+- **Wait for the PIP libraries to install automatically.**  
+
+#### 4. Enter Your API Key in the Blender AI2 Panel  
+- Open Blender’s **N-Panel** by pressing **N**.  
+- Navigate to **Blender AI2**.  
+- **Enter your OpenAI API key** to unlock full functionality.  
+
+### Mac & Linux Users   
+- **Mac & Linux support is coming soon.**  
+- Dependencies will **auto-install on the first run.**  
+
+## How to Use  
 
 ### 1. Enable the Add-On  
-In **Blender's Preferences**, activate the add-on.
+- Open **Blender**  
+- Go to **Edit** → **Preferences** → **Add-ons**  
+- Find **Blender AI That's Error Proof** and enable it  
 
-### 2. Confirm AI Features  
-📢 **Check the Blender console!** The add-on will prompt you to enable AI functionality. You must confirm this prompt in the console before AI features will activate.
+### 2. Confirm AI Features in the Blender Console  
+📢 **Check the Blender console!**  
+- The add-on will prompt you to install AI-related files.  
+- **Press "Y" in the console to proceed.**  
+- **Wait for the PIP libraries to install automatically.**  
 
-### 3. Open the N-Panel  
-Press the `N` key in Blender to open the **N-Panel**.
+### 3. Enter Your API Key in the Blender AI2 Panel  
+- Open Blender’s **N-Panel** by pressing **N**.  
+- Navigate to **Blender AI2**.  
+- **Enter your OpenAI API key** to unlock full functionality.  
 
 ### 4. Generate Scripts  
 - Click **"Edit User Command"** and describe the script you need.  
 - Click **"Assistant"** to generate the script.  
 
-### 5. Enable **Verbose ToolTips**  
-- This feature provides **detailed, built-in documentation** for every tooltip inside the Blender AI panels.  
-- **Highly recommended**: Spend **about 30 minutes** reading through it so you understand what’s available and how features work together.  
-- The add-on is designed to be user-friendly, but **reading the documentation first will ensure the best experience**.  
-- If the script generator encounters an error it can't resolve, **fixing it is easy**—but you’ll want to **know how the system works**.
-- 
-## Handling Errors: The Easiest Debugging System Ever
+### 5. Enable **Verbose ToolTips** (Recommended)  
+- Provides **detailed, built-in documentation** inside all Blender AI panels.  
+- **Highly recommended:** Spend **about 30 minutes** reading tooltips to understand all available features.  
+- The add-on is **user-friendly**, but reading the documentation will help **unlock its full potential**.  
+- If the script generator encounters an issue, **tooltips will guide you on how to resolve it quickly.**  
+
+
+
+
+## Handling Errors well is our big selling point: It has the Easiest Debugging System Ever
 
 We’ve made fixing errors **so simple that even a kid could do it**—seriously! 🚀  
 
-If the script generator encounters an error it **can’t get past**, you can resolve it in **just 5-10 minutes** using our **guided instruction system**. This means **anyone** can keep their script generator running smoothly, without needing deep programming knowledge.  
+If the script generator does encounter an error it **can’t get past**, you can resolve it in **just 5-10 minutes** using our **user instruction set system and ChatGPT Plus**. This means **anyone** can keep their script generator running smoothly, without needing deep programming knowledge.  
+
 
 ### **Pro Tip for Coders:**
-If you know a function has an issue, **just throw it into the script generator**. Our AI is **explicitly instructed not to change your code structure**, so you can **trust it completely**. We regularly do this ourselves—just let the AI handle the debugging while you focus on creating!  
+If you know a function has an issue, **just throw it into the script generator**. Our AI is **explicitly instructed not to change your code structure**, so you can **trust it**. We regularly do this ourselves—just let the AI handle the debugging while you focus on creating scenes!  
 
-🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**.  
+🚀 **Bottom line:** This tool is **not just about generating code**—it’s designed to keep you scripting **all the time** with **minimal effort**. **It's designed for coders and non coders** alike making it so everybody can continuously generate error free code regardless.
 
 ---
-
-## **OpenAI API Key Requirement**
-To use AI features, you must enter your OpenAI API key:
-
-1. Go to [OpenAI API keys page](https://platform.openai.com/account/api-keys).  
-2. **Log in** and retrieve your API key.  
-3. **If you don’t have one**, generate a new key on that page.  
-4. **Keep your API key secure**—don’t share it publicly.  
-
 🔹 **How the AI Works**  
 - The add-on runs OpenAI models **in a loop**, perfecting code over **5 iterations by default**.  
 - Each run **typically takes 1 to 5 minutes** and **costs around 30 to 50 cents**.  
@@ -179,17 +206,13 @@ We are actively testing the **GPT-03 Mini model as an alternative for the main a
 
 Our approach is to **give users flexibility**—whenever we introduce a new model, it will be **tickable in the settings**, allowing you to **choose the AI setup that works best for your needs**. We will always keep **GPT-4o as an option** so users can revert to it at any time if they prefer.  
 
-We are also evaluating **free AI models like DeepSeek** to see if they can match GPT-4o’s capabilities. If they perform well, we’ll integrate them as an **optional setting**, providing users with additional **cost-saving choices**.  
+We are also evaluating **free AI models like DeepSeek and TULU 4.5B** to see if they can match GPT-4o’s capabilities. If they perform well, we’ll integrate them as an **optional setting**, providing users with additional **cost-saving choices**.  
 
 🔹 **Our Approach to AI Optimization**  
 - We’ve worked extensively with **GPT-4o since launch** and optimized our workflows to **maximize its accuracy and efficiency**.  
-- While some users report varied experiences with GPT-4o, **our prompting methods ensure exceptional results**.  
+- While some users report varied experiences with GPT-4o, **We feeel it works very well & our prompting methods ensure exceptional results**.  
 - We recognize that AI models can fluctuate in performance, so we are committed to **keeping previous models available as backup options**.  
 
-💡 **What’s Next?**  
-We're focused on **expanding your choices** while maintaining **high-quality script generation**. Whether that means **fully integrating GPT-03 Mini for larger outputs** or **introducing reliable free models**, our goal is to **lower costs while keeping quality high**.  
-
-Stay tuned—these enhancements are **on the near horizon**! 🚀  
 
 ## **Caveat: First Release Update System Notice ⚠️**  
 We're pushing to get this to you **as soon as possible**, so while we **are including an add-on update system**, it **has not been fully tested yet**.  
@@ -198,31 +221,14 @@ We're pushing to get this to you **as soon as possible**, so while we **are incl
 ✅ **Manually check for updates** on **GitHub** until you see a console message confirming the update system is working properly, or this is removed.  
 
 
----
-
-By default, the AI is designed to **balance quality and cost**, but if you're troubleshooting issues, switching back to **GPT-4o** is recommended for now. 🚀  
-
-
-## **Future Upgrades & Free AI Models**
-We have **many upgrades planned**, and we’re prioritizing **cost reduction** for AI usage.  
-
-- **We welcome feature requests**! We’ll add the most exciting ones to our upgrade list—unless we have even bigger plans in the pipeline.  
-- **The first major improvement will be testing free AI models** (like **DeepSeek** and others) to see if they can match OpenAI’s quality.  
-- **Important:** We haven’t tested DeepSeek yet for this use case. **Some open-source models haven’t performed well**, so we’ll carefully evaluate them before recommending any alternatives.  
-- **Right now, OpenAI’s GPT-4o model is the best option.** However, lowering costs is a top priority, and we’ll test these free models as soon as we need to update our own code.  
-
-📢 **We’re busy with our main Blender add-on, but we’re committed to optimizing AI costs for users as soon as possible!**  
-
----
-
-By following this guide and **understanding the built-in documentation**, you’ll be able to generate scripts efficiently and take full advantage of Blender AI. 🚀  
-
 
 ## Additional Features  
 - **Restart Blender Button**: Restart without losing progress.  
 - **Show Console Button**: View script execution in real time.  
 - **Auto-Update System**: Checks for updates on startup.  
 - **Save/Delete Startup File**: Manage Blender startup configurations easily.  
+- **Verbose Tool-tip System**: View comprehensive documentation inside the add-on.
+
 
 ## Get Our Full Add-on!  
 This script generator is just one part of **FAST Animation Studio Tools**—the **BIGGEST Blender add-on IN THE WORLD (code-wise)**, featuring **500+ workflow optimizations**!  
@@ -237,10 +243,12 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 👉 **Don’t Miss Out—See What You’ve Been Missing!**  
 [Check it out here!](https://fast-blender-add-ons.com/fast-animation-studio-tools-2/)  
 
+
+
+
 ## Need Help?  
 - [Support Email](mailto:support@fast-blender-add-ons.com)  
 - Open an issue on GitHub  
-
 
 
 
@@ -253,8 +261,6 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 [![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
 
 ---
-
-This add-on makes Blender scripting accessible for everyone. Try it now and revolutionize your workflow! 🚀
 
 
 
