@@ -48,27 +48,21 @@
 
 ## ⚠️ Caveats & Important Notes ⚠️  
 
-### ⚠️ **Repository Naming Issue**  
-- **For tonight:** You must **install the add-on manually** and rename the module folder to: blender_ai_thats_error_proof
+### ⚠️ **Important Notice!** 
+- Do NOT use GitHub’s "Download ZIP" button! **download the latest version from the official Releases page:**  
 
-- **Fix coming early tomorrow.**  
+🔗 **[Download Here](https://github.com/mjoe67886/ai-agents-create-blender-scripts/releases/latest)**
 
 ### ⚠️ **First Release Update System Notice**  
 - The **add-on update system is included** but **has not been fully tested yet**.  
 
-- **Fix coming early tomorrow.**  
+- **Fix coming 2-17**  
 
 ### ⚠️ **Example Retrieval Optimization**  
-- The system **usually** pulls correct examples, but **some Geometry Nodes scripts may not retrieve the right references**.  
-- We are **improving vector search functionality** to enhance accuracy.  
-
-### ⚠️ **Workarounds If Needed**  
-- **Manually add examples** to `main_file.py` if retrieval fails (main_file.py visible in the panel—see tooltips).  
-- **Use the user instruction set system** to refine AI responses, to help if retrieval fails.
-
-  - **Fix coming soon on Example Puller. will start in 1 to 3 days after we upgrade the add on to MacOS**
-  - 
-If you have any **questions, issues, video documentation request or feedback**, We welcome you to use the **GitHub issue reporting section**🚀
+- The system **usually** pulls correct examples, but **some Geometry Nodes scripts or others may not retrieve the right references**.  
+- We are **improving vector search functionality** As we speak but keep in mind the add on does work well despite these issues.
+- **You can Manually add examples** to `main_file.py` if retrieval fails (main_file.py visible in the panel—see tooltips).  
+- **You can Use the user instruction set system** to refine AI responses, to help if retrieval fails.
 ---
 
 ### 🚀 How Our AI Generates Perfect Scripts
