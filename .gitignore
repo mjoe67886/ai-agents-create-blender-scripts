@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+lib/
+daz_studio_save/
+daz_studio_bak/
+update/
+__pycache__/
+*.duf
+*.dbz
+*.zip
+*.duf.png
+*.output.png
+*.consolidated_code.py
+>>>>>>> 31c912c (Fresh upload after reset)

@@ -1,0 +1,32 @@
+import platform
+# Main libraries list
+gpt_libraries = [
+    ("ffmpeg", "ffmpeg", ""),
+    ("PIL", "pillow", ""),
+    ("psutil", "psutil", ""),
+]
+
+# Platform-specific handling for pyobjc and pyautogui
+if platform.system() == "Darwin":  # macOS
+    gpt_libraries.extend([
+        # ("pyobjc-core", "pyobjc-core", ""),
+        ("pyobjc", "pyobjc", ""),
+        ("pyautogui", "PyAutoGUI", ""),
+    ])
+elif platform.system() in ["Windows", "Linux"]:  # Windows and Linux
+    gpt_libraries.extend([
+        ("pyautogui", "PyAutoGUI", ""),
+    ])
+
+# Continuing with the remaining gpt_libraries
+gpt_libraries.extend([
+    ("pyperclip", "pyperclip", ""),
+    ("pywinctl", "pywinctl", ""),
+    ("dateutil", "python-dateutil", ""),
+    ("pydantic", "pydantic", ""),
+    ("tiktoken", "tiktoken", ""),
+    ("pygments", "pygments", ""),
+    ("openai", "openai", ""),
+    ("instructor", "instructor", ""),
+
+])

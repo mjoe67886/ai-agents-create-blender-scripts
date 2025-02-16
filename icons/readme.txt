@@ -1,0 +1,1 @@
+Frame set start and frame set end are here in red because in the black icons folder there are white versions of those icons that are necessary to copy over to the base of the icons folder as normally those icons are white and they would conflict with the Awesome Theme interface.
