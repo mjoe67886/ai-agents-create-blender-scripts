@@ -14,80 +14,8 @@
 [downloads-url]: https://fast-blender-add-ons.com/shop
 
 
-## 🚀 Repository Naming Issue🚀  
+## 🚀 Important Repository Naming Issue🚀  
 **For tonight: You must install the add-on manually and rename the module folder to  'blender_ai_thats_error_proof' before using. We will fix having to do this early tomorrow.**
-
----
-
-## ⚠️ **One Quick Note**  
-We're uploading everything as planned, but we've noticed something interesting during our testing. The **example pulling functionality** works **most of the time**, successfully retrieving references. However, during testing of a **basic Geometry Nodes script**, the assistant didn’t always pull the correct **Geometry Nodes code examples**.
-
-### **Temporary Recommendation:**  
-To avoid unnecessary processing costs, **we recommend avoiding Geometry Nodes script generation** if the assistant doesn't pull the correct examples.  
-
-That said, on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples** here if needed, apart from the AI’s example pulling functionality. The system processes a **200,000-line file** that we provide, to locate examples, but manual input allows for more direct control which could help here.
-
-### **Optimization in Progress:**  
-- We are currently **improving the vector search functionality** to enhance retrieval accuracy.  
-- In the meantime, **manually providing single code examples** (functions, operators, or small scripts) in `main_file.py` is the best approach....(main_file.py is visible in a box on panel...read tooltips...)
-- **Keep `main_file.py` limited to one example at a time** for optimal results.  
-- You can also use the **instruction set system** to fine-tune the AI’s responses, and circumvent needing code examples, But this is more time consuming and only recommended to do when you have to e.g. AI system can't get past an error or example not being pulled.
-
----
-
-
----
-
-### 🎥 Coming Soon: Special Section & Video Guide  
-We’re going to **add a short video** explaining exactly how to use the **instruction set system** to refine the assistant’s output.  
-
-For now, we have a **full-length tutorial video** at the bottom of the page, that includes that information toward the end, and we highly recommend watching it to fully understand how everything works. 
-
-If you have any **questions, issues, video documentation request or feedback**, please use the **GitHub issue reporting section**—you're helping us improve! 🚀
-
-
-
-
-### 📌 FYI: Start Amassing Blender Code Examples to Get the Best Results  
-
-Originally, this feature was part of **our main add-on, FAST Animation Studio Tools**, where it pulled examples from the biggest Blender add-on in the world. That setup made our script generator work **amazingly well** by using real Blender automation examples.
-
-Since this **standalone version** doesn’t include our main add-on’s full codebase, it works a little differently—you’ll need to **supply your own example code or even full add-ons as examples** for the best results. Luckily, this is super easy!
-
----
-
-### 🧠 How Our AI Generates Perfect Scripts
-
-Our add-on uses **the same AI models as ChatGPT**, and these models generate **better scripts when given real, tested code examples**. That means the more **high-quality Blender add-ons** you provide as references, the **smarter and more accurate** your script generation will be.  
-
-We provide a **large example file of code** with the add-on that works fine in many cases, but if a script **isn't generating correctly**, you may need to provide **relevant code examples** related to the type of script you're trying to create.
-
-
-1️⃣ **How to Add Your Own Code Examples:**
-- You can **add entire Blender add-ons** as code references by simply **adding their file paths** to a special file.
-- The system will use those add-ons to generate **high-quality, error-free scripts**.
-
-2️⃣ **Where to Find Free Blender Add-ons:**
-- **[Gumroad](https://gumroad.com/)** has **tons of free Blender add-ons** that you can use.
-- You can **filter by price** to find **free** ones.
-- Look for add-ons that match **the type of scripts you want to generate**.
-
-3️⃣ **Choosing the Right Add-ons for Best Results:**
-- **Make sure the add-ons you choose are updated for Blender 4.0+** for maximum compatibility.
-- If necessary, you can go down to **Blender 3.6**, but be aware that **major changes happened between 3.6 and 4.0**.
-- Using outdated add-ons **may introduce issues** due to API changes.
-
-4️⃣ **Why This Matters:**
-- **LLM that generate code perform best with real, up-to-date code.**  
-- If you **don’t know how to code**, you’ll get much better results by giving the system **code examples**.  
-- **Note: This system uses AI to determine the perfect code examples to use so they are provided without need of user interaction.**  
-
-
-</div>
-
-## About This Add-on  
-**An AI-powered script generator with automatic error fixing—it generates, tests, and fixes Blender scripts for you.**  
-
 
 ### **Introducing the Ultimate Script Generator for Blender 4.3**  
 The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST Blender add-on IN THE WORLD (code-wise)** Provided free here for your enjoyment.!  
@@ -105,6 +33,54 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 - **World-Class Customer Support**: We will start fixing any issue reported **immediately**  
 
 [More information here!](https://fast-blender-add-ons.com/)  
+---
+
+## ⚠️ **One Quick Note**  
+We're uploading everything as planned, but we've noticed something interesting during our testing. The **example pulling functionality** works **most of the time**, successfully retrieving references. However, during testing of a **basic Geometry Nodes script**, the assistant didn’t always pull the correct **Geometry Nodes code examples**.
+
+### **Optimization in Progress:**  
+- We are currently **improving the vector search functionality** to enhance retrieval accuracy.  
+- In the meantime, **manually providing single code examples** (functions, operators, or small scripts) in `main_file.py` is the best approach....if you notice an example you add with the 'Create Addon Examples' button is not picked up...(main_file.py is visible in a box on panel...read tooltips...)
+ 
+- You can also use the **instruction set system** to fine-tune the AI’s responses, and circumvent needing code examples, But this is more time consuming and only recommended to do when you have to e.g. AI system can't get past an error or example not being pulled.
+
+---
+
+### 🧠 How Our AI Generates Perfect Scripts
+
+Our add-on uses **the same AI models as ChatGPT**, and these models generate **better scripts when given real, tested code examples**. That means the more **high-quality Blender add-ons** you provide as references, the **smarter and more accurate** your script generation will be.  
+
+We provide a **large example file of code** with the add-on that works fine in many cases, but if a script **isn't generating correctly**, you may need to provide **relevant code examples** related to the type of script you're trying to create.
+
+---
+1️⃣ **This Add-On Comes with a Default Example File**  
+- The default example file contains **almost 200,000 lines of examples**.  
+- You can **remove up to 50,000 lines** and replace them with **your own code examples** while keeping the total at **200,000 lines**.  
+
+2️⃣ **How to Add Your Own Code Examples:**  
+- You can **add entire Blender add-ons** as code references by simply **adding their file paths** to a special file.  
+- The system will use those add-ons to generate **high-quality, error-free scripts**.  
+
+3️⃣ **Where to Find Free Blender Add-ons:**  
+- **[Gumroad](https://gumroad.com/)** has **tons of free Blender add-ons** that you can use.  
+- You can **filter by price** to find **free** ones.  
+- Look for add-ons that match **the type of scripts you want to generate**.  
+
+4️⃣ **Choosing the Right Add-ons for Best Results:**  
+- **Make sure the add-ons you choose are updated for Blender 4.0+** for maximum compatibility.  
+- If necessary, you can go down to **Blender 3.6**, but be aware that **major changes happened between 3.6 and 4.0**.  
+- Using outdated add-ons **may introduce issues** due to API changes.  
+
+5️⃣ **Why This Matters:**  
+- **LLMs that generate code perform best with real, up-to-date code.**  
+- If you **don’t know how to code**, you’ll get much better results by giving the system **code examples**.  
+- **Note: This system uses AI to determine the perfect code examples to use, so they are provided without the need for user interaction.**  
+
+
+</div>
+
+## About This Add-on  
+**An AI-powered script generator with automatic error fixing—it generates, tests, and fixes Blender scripts for you.** 
 
 
 
@@ -118,7 +94,6 @@ The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST 
 - **Drag or Copy & Paste** the folder inside the ZIP to:  
   **Blender's `scripts/addons/` directory**  
 - **Rename the folder** to:  
-
 
 #### 2. Enable the Add-On in Blender  
 - Open **Blender**  
@@ -250,6 +225,13 @@ This isn’t just an add-on—it’s a **game-changer**, removing unnecessary cl
 [![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
 
 ---
+
+### 🎥 Coming Soon: Special Section & Video Guide  
+We’re going to **add a short video** explaining exactly how to use the **instruction set system** to refine the assistant’s output.  
+
+For now, we have a **full-length tutorial video** at the bottom of the page, that includes that information toward the end, and we highly recommend watching it to fully understand how everything works. 
+
+If you have any **questions, issues, video documentation request or feedback**, please use the **GitHub issue reporting section**—you're helping us improve! 🚀
 
 
 
