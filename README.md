@@ -104,11 +104,6 @@ We provide a **large example file of code** with the add-on that works fine in m
 
 </div>
 
-## About This Add-on  
-**An AI-powered script generator with automatic error fixing—it generates, tests, and fixes Blender scripts for you.** 
-
-
-
 ## Installation  
 
 ### Windows Users  
