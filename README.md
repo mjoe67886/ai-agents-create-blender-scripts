@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🖥️🎨 AI Agents: Create Blender Scripts  
+# 🖥️🎨 AI Agents: Create Blender Scripts  
 # 🚀 The Most Powerful AI-Powered Blender Scripting Tool 🚀  
 
 </div>
