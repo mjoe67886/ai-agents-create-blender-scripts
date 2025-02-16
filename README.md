@@ -16,7 +16,8 @@
 
 
 ### **Introducing the Ultimate Script Generator for Blender 4.3**  
-The latest addition to **FAST Animation Studio Tools**—which is the **BIGGEST Blender add-on IN THE WORLD (code-wise)** Provided free here for your enjoyment.!  
+
+We ripped part of our A.I. code **FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD (code-wise)** for your enjoyment.!  
 
 ## Features  
 - **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
