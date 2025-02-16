@@ -181,7 +181,7 @@ We provide a **large example file of code** with the add-on that works fine in m
 ## Get Our Full Add-on!  
 This script generator is just one part of **FAST Animation Studio Tools**—the **BIGGEST Blender add-on IN THE WORLD (code-wise)**, featuring **500+ workflow optimizations**!  
 
-🚨 **We Would Be Literally Screwing 23 Million Blender Users If We Didn’t Tell You About This!** 🚨  
+🚨 **We Would Be Literally Giving 23 Million Blender Users The Business!! If We Didn’t Tell You About This!!** 🚨  
 We’ve spent **2+ years** developing and **updating this add-on daily**, refining it into the ultimate tool for **streamlining Blender workflows**. There are **23 million Blender users out there** who don’t know this exists—and that means they’re stuck doing things **the slow, hard way** when **they don’t have to**.  
 
 Whenever we're working on our **TV Show**, which is the **reason** why we created this **Blender add-on**, if something is **hard to do**, we **write code**—and the end result is **it benefits you**.  
