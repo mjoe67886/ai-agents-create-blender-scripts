@@ -3,8 +3,6 @@
 # 🖥️🎨 AI Agents: Create Blender Scripts  
 # 🚀 The Most Powerful AI-Powered Blender Scripting Tool 🚀  
 
-
-
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
 [![Downloads][downloads-shield]][downloads-url]  
@@ -14,34 +12,38 @@
 [support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
 [support-url]: https://fast-blender-add-ons.com/support/  
 [downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
-[downloads-url]: https://fast-blender-add-ons.com/shop
+[downloads-url]: https://fast-blender-add-ons.com/shop  
 
-**We ripped code outta FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD!! (code-wise) for your enjoyment.!**  
+**We ripped code outta FAST Animation Studio Tools—THE BIGGEST Blender add-on IN THE WORLD (code-wise)—for your enjoyment!**  
+
 </div>
-## Features  
+
+---
+
+## 🚀 Features  
 - **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
 - **Automatic Error Handling**: Runs the script, detects issues, and automatically fixes errors in a loop.  
 - **Smart Code Lookup**: Searches the **Blender API, Blender Manual, and your own database of code examples** for solutions.  
 - **Version Compatibility**: Convert older scripts to **Blender 4.3 compatibility** automatically.  
 - **Boost User Command Feature**: Optimizes your input to be **Blender Manual-compatible** for better results.  
 - **Cool Example System**: Can locate and retrieve example scripts from our **internal database** or even **external add-ons** you specify.  
-- **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set system allows even **non-programmers to resolve errors in 5-10 minutes.** 
+- **Interactive Fix System**: In rare cases where auto-fix doesn’t work, an easy-to-follow instruction set system allows even **non-programmers to resolve errors in 5-10 minutes.**  
 - **Hail Mary Fix Attempt**: The system performs a final attempt to **automatically solve complex issues**, so manual fixing might not be necessary.  
 - **Optimized for Animation & Nodes**: Works especially well for **automation scripts, shader setups, compositor nodes, and geometry nodes.**  
-- **We Love Issue Reports**: We will start fixing any issue reported **same day**  
+- **We Love Issue Reports**: We will start fixing any issue reported **same day**.  
 
 [More information here!](https://fast-blender-add-ons.com/)  
+
 ---
 
-## 📺 You Should Watch These Videos 
+## 📺 You Should Watch These Videos  
 
 ### 🎬 Intro  
-[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)
+[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)  
 
 ### 🎥 How It Works  
-[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)
+[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)  
 
----
 
 
 ## ⚠️ Caveats & Important Notes ⚠️  
