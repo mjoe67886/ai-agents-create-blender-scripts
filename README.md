@@ -10,16 +10,10 @@
    - This will open the contents of the ZIP file.
 
 2. **Drag or Copy & Paste the Folder**  
-   - Move the folder inside the ZIP to:  
-     ```
-     Blender's scripts/addons/ directory
-     ```
+   - Move the folder inside the ZIP to: Blender's scripts/addons/ directory
 
 3. **Rename the Folder**  
-   - Once inside `scripts/addons/`, rename the folder to:  
-     ```
-     blender_ai_thats_error_proof
-     ```
+   - Once inside `scripts/addons/`, rename the folder to: blender_ai_thats_error_proof
 
 4. **Start Blender & Enable the Add-on**  
    - Open **Blender**  
