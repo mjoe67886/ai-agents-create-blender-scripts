@@ -1296,6 +1296,22 @@ def find_3d_viewport():
     return None
 
 
+def reset_restart_properties():
+    """Reset all restart-related properties to False."""
+    manager = bpy.context.preferences.addons[__name__].preferences.Prop
+    
+    manager.restart_after_verify = False
+    manager.restart_after_key = False
+    manager.restart_after_addon_enabled = False
+    manager.restart_after_addons = False
+    manager.restart_after_dependencies = False
+    manager.restart_after_update = False
+    caller_info = inspect.stack()[1]  # Get information about the caller
+    calling_line = caller_info.lineno  # Line number where print_color was called
+
+    print_color("AR", f"\n[Line: {calling_line}") 
+    print("\nRestart-related properties have been reset.")
+
 
 new_filename = ""
 
