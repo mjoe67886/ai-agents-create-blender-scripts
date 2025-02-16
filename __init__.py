@@ -629,7 +629,7 @@ else:
    
             pyarmor_runtime_path = os.path.join(
                 bpy.utils.user_resource('SCRIPTS'),
-                "addons", "blender_ai_thats_error_proof", "pyarmor_runtime_004830", "pyarmor_runtime.pyd"
+                "addons", "blender_ai_thats_error_proof", "data", "pyarmor_runtime_004830", "pyarmor_runtime.pyd"
             )
     
     
