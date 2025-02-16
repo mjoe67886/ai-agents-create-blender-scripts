@@ -4,7 +4,7 @@
 **The most powerful AI-powered Blender scripting tool.**  
 
 
-Repo has an error please wait or be prepared to download again and a half hour
+Repo error was fixed but you have to rename the add on folder be prepared for how to use section in like 5 minutes.
 
 
 ## 🚀 Repository Naming Update 🚀  
