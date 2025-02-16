@@ -2,9 +2,16 @@
 
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
+[![Website][website-shield]][website-url]  
+[![Support][support-shield]][support-url]  
+[![Downloads][downloads-shield]][downloads-url]  
 
-
-Repo has an error please wait or be prepared to download again and a half hour
+[website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
+[website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
+[support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
+[support-url]: https://fast-blender-add-ons.com/support/  
+[downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
+[downloads-url]: https://fast-blender-add-ons.com/shop
 
 
 ## 🚀 Repository Naming Issue🚀  
@@ -15,18 +22,16 @@ Repo has an error please wait or be prepared to download again and a half hour
 ## ⚠️ **One Quick Note**  
 We're uploading everything as planned, but we've noticed something interesting during our testing. The **example pulling functionality** works **most of the time**, successfully retrieving references. However, during testing of a **basic Geometry Nodes script**, the assistant didn’t always pull the correct **Geometry Nodes code examples**.
 
-Since part of our goal is **guiding the AI assistant to locate the correct examples**, we’re actively optimizing this process. While the **example system itself is functional**, we want to ensure it consistently finds the most relevant references.
-
 ### **Temporary Recommendation:**  
 To avoid unnecessary processing costs, **we recommend avoiding Geometry Nodes script generation** if the assistant doesn't pull the correct examples.  
 
-That said, on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples** here, apart from the AI’s example pulling functionality. The system processes a **200,000-line file** to locate references, but manual input allows for more direct control.
+That said, on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples** here if needed, apart from the AI’s example pulling functionality. The system processes a **200,000-line file** that we provide, to locate examples, but manual input allows for more direct control which could help here.
 
 ### **Optimization in Progress:**  
 - We are currently **improving the vector search functionality** to enhance retrieval accuracy.  
-- In the meantime, **manually providing single code examples** (functions, operators, or small scripts) in `main_file.py` is the best approach.  
+- In the meantime, **manually providing single code examples** (functions, operators, or small scripts) in `main_file.py` is the best approach....(main_file.py is visible in a box on panel...read tooltips...)
 - **Keep `main_file.py` limited to one example at a time** for optimal results.  
-- You can also use the **instruction set system** to fine-tune the AI’s responses.
+- You can also use the **instruction set system** to fine-tune the AI’s responses, and circumvent needing code examples, But this is more time consuming and only recommended to do when you have to e.g. AI system can't get past an error or example not being pulled.
 
 ---
 
@@ -76,22 +81,6 @@ We provide a **large example file of code** with the add-on that works fine in m
 - **LLM that generate code perform best with real, up-to-date code.**  
 - If you **don’t know how to code**, you’ll get much better results by giving the system **code examples**.  
 - **Note: This system uses AI to determine the perfect code examples to use so they are provided without need of user interaction.**  
-
-
-
-
-
-[![Website][website-shield]][website-url]  
-[![Support][support-shield]][support-url]  
-[![Downloads][downloads-shield]][downloads-url]  
-
-[website-shield]: https://img.shields.io/badge/FastBlenderAddOns-4285F4?style=flat  
-[website-url]: https://fast-blender-add-ons.com/fast-animation-studio-tools-2/  
-[support-shield]: https://img.shields.io/badge/Support-Email-blue?style=flat  
-[support-url]: https://fast-blender-add-ons.com/support/  
-[downloads-shield]: https://img.shields.io/badge/Downloads-Available-brightgreen?style=flat  
-[downloads-url]: https://fast-blender-add-ons.com/shop
-
 
 
 </div>
