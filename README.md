@@ -1,21 +1,59 @@
 <div align="center">
 
-
-
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
 
+# 🚨 **IMPORTANT: RENAME THE ADD-ON FOLDER BEFORE USING!** 🚨
+
+## **Windows Installation Instructions:**
+1. **Double-click the ZIP file**  
+   - This will open the contents of the ZIP file.
+
+2. **Drag or Copy & Paste the Folder**  
+   - Move the folder inside the ZIP to:  
+     ```
+     Blender's scripts/addons/ directory
+     ```
+
+3. **Rename the Folder**  
+   - Once inside `scripts/addons/`, rename the folder to:  
+     ```
+     blender_ai_thats_error_proof
+     ```
+
+4. **Start Blender & Enable the Add-on**  
+   - Open **Blender**  
+   - Go to **Edit** → **Preferences** → **Add-ons**  
+   - Find **Blender AI That's Error Proof** and enable it  
+
+🚀 **This only works on Windows for now!** 🚀  
+🔧 **Mac support is coming soon—we're finishing up the upgrade!** 🔧  
 
 ---
 
-### ⚠️ One Quick Note
-We're going to upload everything as planned, but we’ve noticed something interesting during our testing. The **example pulling functionality** has been working **most of the time**, and in most cases, the assistant finds the right examples. However, when testing a **basic Geometry Nodes script**, the assistant wasn’t pulling the correct **Geometry Nodes code examples** from the file. 
+## 🚀 Repository Naming Update 🚀  
+I apologize for the mismatch between the repository name and the SEO-optimized add-on name. We will research naming options tomorrow!
 
-Since part of what we’re doing is **guiding the AI assistant to locate the correct examples**, this is something we’ll be optimizing right away. The **example system itself works well**, but we want to ensure it consistently finds the proper references. 
+---
 
-To avoid unnecessary processing costs, **we recommend avoiding Geometry Nodes script generation if it doesn’t pull the correct examples**. However, keep in mind that on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples there** apart from the AI's example pulling functionality, which processes a **200,000-line file** to find references. 
+## ⚠️ **One Quick Note**  
+We're uploading everything as planned, but we've noticed something interesting during our testing. The **example pulling functionality** works **most of the time**, successfully retrieving references. However, during testing of a **basic Geometry Nodes script**, the assistant didn’t always pull the correct **Geometry Nodes code examples**.
 
-We’re currently **optimizing the vector search functionality** to make sure it consistently retrieves the right examples from that file. In the meantime, you can **manually provide single code examples**—such as functions, operators, or small scripts—in `main_file.py`. It’s best to keep `main_file.py` limited to **one** example at a time, but you can also use the **instruction set system** to fine-tune the assistant’s responses.
+Since part of our goal is **guiding the AI assistant to locate the correct examples**, we’re actively optimizing this process. While the **example system itself is functional**, we want to ensure it consistently finds the most relevant references.
+
+### **Temporary Recommendation:**  
+To avoid unnecessary processing costs, **we recommend avoiding Geometry Nodes script generation** if the assistant doesn't pull the correct examples.  
+
+That said, on the **panel, there's a box displaying `.py` files**—one of them is `main_file.py`. You can **manually add small code examples** here, apart from the AI’s example pulling functionality. The system processes a **200,000-line file** to locate references, but manual input allows for more direct control.
+
+### **Optimization in Progress:**  
+- We are currently **improving the vector search functionality** to enhance retrieval accuracy.  
+- In the meantime, **manually providing single code examples** (functions, operators, or small scripts) in `main_file.py` is the best approach.  
+- **Keep `main_file.py` limited to one example at a time** for optimal results.  
+- You can also use the **instruction set system** to fine-tune the AI’s responses.
+
+---
+
 
 ---
 
