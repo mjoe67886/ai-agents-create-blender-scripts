@@ -1,15 +1,38 @@
 <div align="center">
 
+
+
 # AI Agents: Create Blender Scripts 🎨🖥️  
 **The most powerful AI-powered Blender scripting tool.**  
-## 🚨 Update (February 14, 2025)
 
-Hey everyone, **we're all done!** 🎉 The tooltips, documentation, and final tests are complete—we're fully ready to upload. 
 
-However, since it's the end of the day and we want to be available in case of any issues, **we're holding off on the upload until first thing tomorrow.** That way, we can ensure everything goes smoothly and be here to assist if needed. 
+# 🚨 **IMPORTANT: RENAME THE ADD-ON FOLDER BEFORE USING!** 🚨
 
-Thanks for your patience—**it’s happening tomorrow!** 🚀💪
+## **Windows Installation Instructions:**
+1. **Double-click the ZIP file**  
+   - This will open the contents of the ZIP file.
 
+2. **Drag or Copy & Paste the Folder**  
+   - Move the folder inside the ZIP to:  
+     ```
+     Blender's scripts/addons/ directory
+     ```
+
+3. **Rename the Folder**  
+   - Once inside `scripts/addons/`, rename the folder to:  
+     ```
+     blender_ai_thats_error_proof
+     ```
+
+4. **Start Blender & Enable the Add-on**  
+   - Open **Blender**  
+   - Go to **Edit** → **Preferences** → **Add-ons**  
+   - Find **Blender AI That's Error Proof** and enable it  
+
+🚀 **This only works on Windows for now!** 🚀  
+🔧 **Mac support is coming soon—we're finishing up the upgrade!** 🔧
+
+🚀 ** I apologize but I tried to come up with a punchy name for the repository and it didn't match my SEO optimized name for the add-on. We will research naming options tomorrow!** 🚀  
 ---
 
 ### ⚠️ One Quick Note
