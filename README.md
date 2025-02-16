@@ -3,7 +3,7 @@
 # 🖥️🎨 AI Agents: Create Blender Scripts  
 # 🚀 The Most Powerful AI-Powered Blender Scripting Tool 🚀  
 
-</div>
+
 
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
@@ -17,7 +17,7 @@
 [downloads-url]: https://fast-blender-add-ons.com/shop
 
 **We ripped part of our A.I. code FAST Animation Studio Tools THE BIGGEST Blender add-on IN THE WORLD (code-wise) for your enjoyment.!**  
-
+</div>
 ## Features  
 - **AI-Powered Script Generation**: Uses **GPT-4o**, the same model available in ChatGPT Pro, to generate automation scripts from your detailed commands.  
 - **Automatic Error Handling**: Runs the script, detects issues, and automatically fixes errors in a loop.  
