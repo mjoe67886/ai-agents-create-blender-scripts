@@ -36,16 +36,6 @@
 
 ---
 
-## 📺 You Should Watch These Videos  
-
-### 🎬 Intro  
-[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)  
-
-### 🎥 How It Works  
-[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)  
-
-
-
 ## ⚠️ Caveats & Important Notes ⚠️  
 
 ### ⚠️ **Important Notice!** 
@@ -64,6 +54,16 @@
 - **You can Manually add examples** to `main_file.py` if retrieval fails (main_file.py visible in the panel—see tooltips).  
 - **You can Use the user instruction set system** to refine AI responses, to help if retrieval fails.
 ---
+
+## 📺 You Should Watch These Videos  
+
+### 🎬 Intro  
+[![Intro](https://img.youtube.com/vi/F8UzMOiVUsA/maxresdefault.jpg)](https://youtu.be/F8UzMOiVUsA)  
+
+### 🎥 How It Works  
+[![How It Works](https://img.youtube.com/vi/_CaFP8KjZz0/maxresdefault.jpg)](https://youtu.be/_CaFP8KjZz0)  
+
+
 
 ### 🚀 How Our AI Generates Perfect Scripts
 
