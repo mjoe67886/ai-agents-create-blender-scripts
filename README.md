@@ -105,8 +105,7 @@ We provide a **large example file of code** with the add-on that works fine in m
 #### 1. Download & Extract  
 - **Pre-packaged with dependencies.**  
 - **Double-click the ZIP file** to open it.  
-- **Drag or Copy & Paste** the folder inside the ZIP to:  
-  **Blender's `scripts/addons/` directory**  
+- **Drag or Copy & Paste** the folder inside the ZIP to: **Blender's `scripts/addons/` directory**  
 - **Rename the folder** to:  
 
 #### 2. Enable the Add-On in Blender  
