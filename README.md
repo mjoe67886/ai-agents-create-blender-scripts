@@ -1,7 +1,8 @@
 <div align="center">
 
-# AI Agents: Create Blender Scripts 🎨🖥️  
-**The most powerful AI-powered Blender scripting tool.**  
+## AI Agents: Create Blender Scripts 🎨🖥️  
+## The most powerful AI-powered Blender scripting tool.  
+
 [![Website][website-shield]][website-url]  
 [![Support][support-shield]][support-url]  
 [![Downloads][downloads-shield]][downloads-url]  
