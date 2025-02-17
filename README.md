@@ -32,7 +32,7 @@
 - **Optimized for Animation & Nodes**: Works especially well for **automation scripts, shader setups, compositor nodes, and geometry nodes.**  
 - **We Love Issue Reports**: We will start fixing any issue reported **same day**.  
 
-[This is a feature we've pulled out of our main add-on FAST Animation Studio Tools.](https://fast-blender-add-ons.com/)  
+[This is a feature from our main add-on FAST Animation Studio Tools.](https://fast-blender-add-ons.com/)  
 
 [More information on this feature from the main add-on page here!](https://fast-blender-add-ons.com/)  
 
