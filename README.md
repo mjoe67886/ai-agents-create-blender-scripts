@@ -41,7 +41,7 @@
 ## ⚠️ Caveats & Important Notes ⚠️  
 
 ### ⚠️ **Important Notice!** 
-- Do NOT use GitHub’s "Download ZIP" button! **download the latest version from the official Releases page:**  
+- Do NOT use "Download ZIP"! ** Please download from the official Releases page:**  
 
 🔗 **[Download Here](https://github.com/mjoe67886/ai-agents-create-blender-scripts/releases/latest)**
 
